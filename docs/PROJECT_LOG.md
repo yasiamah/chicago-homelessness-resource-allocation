@@ -40,3 +40,44 @@ List any unresolved errors here. Write `None` if everything works.
 ### Next Step
 
 Create a verified data-source inventory for the Chicago homelessness analysis.
+
+
+
+## September 21, 2026
+
+### Objective
+
+Create and validate a structured inventory of the project’s official and supplementary data sources.
+
+### Completed
+
+- [ ] Created the data-source notebook
+- [ ] Documented seven verified sources
+- [ ] Checked for missing values
+- [ ] Checked for duplicate source names
+- [ ] Validated the source URLs
+- [ ] Exported the inventory to CSV
+- [ ] Created the data-source documentation
+
+### Files Changed
+
+- `notebooks/01_data_source_inventory.ipynb`
+- `data/processed/data_source_inventory.csv`
+- `docs/DATA_SOURCES.md`
+- `docs/PROJECT_LOG.md`
+
+### What I Learned
+
+I learned that a data-source inventory records what each dataset measures, its time period, its geographic level, its planned use, and its limitations. This prevents incompatible datasets from being treated as if they measure the same thing.
+
+### Blockers
+
+Write `None` if all validation checks passed.
+
+### Git Commit
+
+`Document verified homelessness data sources`
+
+### Next Step
+
+Download and inspect the Chicago affordable housing and community-area boundary datasets.
