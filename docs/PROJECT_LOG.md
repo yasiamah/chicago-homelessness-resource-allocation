@@ -111,3 +111,46 @@ None.
 ### Next Step
 
 Download and inspect Chicago’s Affordable Rental Housing Developments dataset.
+
+
+
+
+## September 23, 2026
+
+### Objective
+
+Verify the data-source inventory and begin reproducible collection of Chicago's Affordable Rental Housing Developments dataset.
+
+### Completed
+
+- [ ] Verified all four Day 2 deliverables
+- [ ] Ran every inventory notebook cell successfully
+- [ ] Confirmed the inventory contains seven rows and nine columns
+- [ ] Closed GitHub Issue #2
+- [ ] Created the affordable-housing download notebook
+- [ ] Downloaded the official dataset through the API
+- [ ] Inspected columns, data types, missing values, and duplicates
+- [ ] Saved the raw local data
+- [ ] Exported the column profile
+
+### Files Changed
+
+- `notebooks/02_affordable_housing_download.ipynb`
+- `data/processed/affordable_housing_profile.csv`
+- `docs/PROJECT_LOG.md`
+
+### What I Learned
+
+I learned how an API makes data collection reproducible. I also learned that an affordable-housing development inventory measures documented supply, not real-time vacancies or access.
+
+### Blockers
+
+Write `None` if all checks passed. Otherwise record the exact error and the step where it occurred.
+
+### Git Commit
+
+`Download and profile affordable housing data`
+
+### Next Step
+
+Clean the affordable-housing fields and determine whether community-area and unit-count columns are suitable for geographic analysis.
