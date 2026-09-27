@@ -207,3 +207,108 @@ Write `None` if every verification check passed. Otherwise record the exact erro
 ### Next Step
 
 Clean and standardize the affordable-housing dataset after the current checkpoint is published.
+
+
+
+
+
+
+## September 25, 2026
+
+### Objective
+
+Resolve the notebook execution-order error and verify the affordable-housing ingestion pipeline from beginning to end.
+
+### Completed
+
+- [ ] Restarted the Jupyter kernel
+- [ ] Ran every notebook cell in order
+- [ ] Confirmed HTTP status 200
+- [ ] Confirmed the dataset contained 598 rows and 19 columns
+- [ ] Confirmed zero exact duplicate rows
+- [ ] Saved the raw dataset locally
+- [ ] Saved the processed data profile
+- [ ] Verified that both output files are nonempty
+- [ ] Confirmed that the raw dataset is ignored by Git
+- [ ] Closed GitHub Issue #2
+- [ ] Published the completed checkpoint
+
+### Files Changed
+
+- `notebooks/02_affordable_housing_download.ipynb`
+- `data/processed/affordable_housing_profile.csv`
+- `docs/PROJECT_LOG.md`
+
+### Results
+
+The City API returned 598 affordable-housing development records with 19 columns. The duplicate check found zero exact duplicate rows. The `units` column contained one missing value and the `location` column contained nine missing values.
+
+These results describe the dataset as downloaded on September 25, 2026. They may change when the City updates the source.
+
+### What I Learned
+
+I learned that Jupyter variables exist only in the active kernel session. Restarting the kernel removes those variables, so a reproducible notebook must run successfully from the first cell to the last cell.
+
+### Blockers
+
+Write `None` only after the full notebook and final verification cell pass.
+
+### Git Commit
+
+`Verify affordable housing ingestion pipeline`
+
+### Next Step
+
+Clean the affordable-housing data types, handle the missing units value, and remove unneeded system-generated columns.
+
+
+
+
+
+
+
+## September 26, 2026
+
+### Objective
+
+Verify that the affordable-housing ingestion notebook runs successfully from a fresh kernel and produces reproducible outputs.
+
+### Completed
+
+- [ ] Selected the `.venv-2` notebook kernel
+- [ ] Restarted the kernel
+- [ ] Ran every notebook cell in order
+- [ ] Received HTTP status 200
+- [ ] Confirmed the dataset was not empty
+- [ ] Verified the raw and profile files
+- [ ] Confirmed that Git ignores the raw dataset
+- [ ] Published the reproducible files to GitHub
+
+### Results
+
+- Dataset rows: `[ACTUAL ROW COUNT]`
+- Dataset columns: `[ACTUAL COLUMN COUNT]`
+- Exact duplicate rows: `[ACTUAL DUPLICATE COUNT]`
+- Final verification message: `[ACTUAL MESSAGE]`
+
+### Files Changed
+
+- `notebooks/02_affordable_housing_download.ipynb`
+- `data/processed/affordable_housing_profile.csv`
+- `docs/PROJECT_LOG.md`
+
+### What I Learned
+
+I learned that Jupyter variables exist only in the current kernel session. Restarting the kernel and running all cells in order tests whether a notebook is genuinely reproducible rather than dependent on hidden execution history.
+
+### Blockers
+
+Write `None` only if Run All completed without an error. Otherwise record the exact error and the cell where it occurred.
+
+### Git Commit
+
+`Verify affordable housing ingestion pipeline`
+
+### Next Step
+
+Create `notebooks/03_affordable_housing_cleaning.ipynb` and clean the unit-count, community-area, property-type, and coordinate fields.
