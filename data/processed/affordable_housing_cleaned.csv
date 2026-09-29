@@ -1,0 +1,599 @@
+community_area,community_area_number,property_type,property_name,address,zip_code,phone_number,management_company,units,latitude,longitude,units_missing
+Avondale,21,Multifamily,Hairpin Lofts,3414 W. Diversey Ave.,60647,773-292-6360,Leasing & Management Co. Inc.,25,41.93207259,-87.71287204,False
+Loop,32,ARO,1000M,1000 S. Michigan Ave.,60605,312-820-1000,Willow Bridge,23,41.86987759,-87.6242687,False
+Logan Square,22,ARO,2556 Armtiage LLC,2556 W. Armitage Ave,60647,773-252-0600,North Clybourn Group,1,41.91764283,-87.69216996,False
+Douglas,35,Multifamily,South Park Plaza,2600 S. King Dr.,60616,312-674-9210,Woodlawn Comm. Dev. Corp.,134,41.84565291,-87.61781639,False
+Near West Side,28,ARO,The Rosie,1461 S. Blue Island Ave.,60608,872-259-7452,The FLATS,7,41.86188118,-87.65755844,False
+Uptown,3,ARO,Platform 4611,4611 N. Broadway,60640,312-264-2280,Platform 4611,5,41.96576829,-87.6575472,False
+North Lawndale,29,Multifamily,Praise Apts.,1859 S. Pulaski Road,60623,773-762-3389,Lawndale Christian Residential Svcs.,11,41.85533972,-87.72471008,False
+Kenwood,39,Multifamily,Cottage View Terrace,4829 S. Cootage Grove Ave.,60615,872-263-2362,UPA LLC,97,41.80683465,-87.60636083,False
+Near West Side,28,Senior,Loomis Court,1314 W. 15th St.,60608,312-850-4128,CHA,68,41.86166987,-87.65963108,False
+Lake View,6,ARO,Low-Line Commons,3431 N Ashland Ave,60657,773-739-8839,33 Realty,8,41.94428543,-87.66864155,False
+Bridgeport,60,Senior,Senior Suites of Bridgeport,2825 S. Halsted St.,60608,312-326-0333,Senior Lifestyle Corp.,85,41.84272915,-87.64624727,False
+Lake View,6,Senior,Britton Bud Apts.,501 W. Surf St.,60657,773-388-8101,Habitat Company,173,41.93419517,-87.64140394,False
+Avondale,21,ARO,The Avondale Residences II,3153 N. Tripp Ave.,60641,773-328-8038,Daniel Management Group,1,41.93879718,-87.73283956,False
+Lake View,6,ARO,3220 Lincoln,3220 N. Lincoln Ave.,60657,312-214-3563,3220 Lincoln LLC,2,41.94026958,-87.66923761,False
+Washington Park,40,People with Disabilities,Urbanite Apartments,5441 S. Michigan Ave.,60615,773-285-3341,Assoc. of Chicago Day School,85,41.7952753,-87.62233438,False
+Humboldt Park,23,Multifamily,Bloomingdale Apts.,1745 N. Keystone Ave.,60639,773-276-2965,Village Green Management Co.,48,41.91299036,-87.72750391,False
+Uptown,3,ARO,The Synagogue,5029 N. Kenmore Ave.,60640,872-259-7211,The FLATS,4,41.97416834,-87.65620794,False
+Woodlawn,42,Senior,Butler Apts.,6146 S. Kenwood Ave.,60637,773-955-9290,Woodlawn Comm. Dev. Corp.,17,41.78280346,-87.59326131,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,505 N. Troy St.,60612,773-227-6332,Bickerdike Apts.,6,41.89052242,-87.70502546,False
+Albany Park,14,Senior,Darul Amaan Senior Living,4814-58 N. Kedzie Ave.,60625,773-463-3004,East Lake Management & Development Corp.,56,41.96893506,-87.70863783,False
+West Town,24,Multifamily,Paseo Boricua Apts.,1154 N. Campbell St.,60622,312-602-6500,Hispanic Housing Dev. Corp.,61,41.90287808,-87.68963252,False
+Chatham,44,Supportive Housing,Karibuni Place,8200 S. Ellis Ave.,60619,773-873-0708,Heartland Housing,72,41.74575696,-87.60031991,False
+Grand Boulevard,38,Senior,Park Boulevard Tower/Grand Renaissance Apts.,4257 S. King Dr.,60653,773-268-4642,"East Lake Management Group, Inc.",24,41.81674964,-87.61664895,False
+East Garfield Park,27,Multifamily,Homan Square Apartments Phase IV,908 S. Central Park Ave.,60624,773-722-7320,Realty & Mortgage Co.,108,41.86966928,-87.71567245,False
+Lake View,6,Senior,Renaissance St. Luke Belmont,1501 W. Belmont Ave.,60657,773-525-1501,"RRG Development, Inc.",52,41.93961849,-87.66636023,False
+Washington Park,40,Multifamily,St. Edmund's Oasis,6100-24 S. Prairie Ave.,60637,773-493-2411,St. Edmund's Redevelopment Corp.,27,41.78373056,-87.61908972,False
+North Lawndale,29,Senior,Roosevelt Towers,3440 W. Roosevelt Road,60624,773-265-6961,"East Lake Management Group, Inc.",104,41.86643977,-87.71218086,False
+Near West Side,28,ARO,Arthur on Aberdeen,210 N. Aberdeen St.,60607,312-872-1111,Willow Bridge,,41.88592398,-87.65462913,True
+Avondale,21,ARO,The Field's Lofts,4000 W. Diversey Ave.,60639,773-269-6066,33 Realty,12,41.93189772,-87.72710503,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,541 N. Homan Ave.,60624,773-227-6332,Bickerdike Apts.,27,41.89148035,-87.71116895,False
+Kenwood,39,Multifamily,Jazz on the Boulevard (scattered sites),4657 S. Drexel Blvd,60653,312-660-1300,Heartland Housing,81,41.80971394,-87.60375337,False
+Logan Square,22,ARO,Motif on Belden,2845 W. Belden Ave.,60647,773-327-6617,33 Realty,10,41.92317175,-87.69912469,False
+Chicago Lawn,66,Senior,Senior Suites of Marquette Village,7430 S. Rockwell St.,60629,773-432-8420,Senior Lifestyle Corp.,93,41.75815411,-87.68810611,False
+West Town,24,Supportive/Veterans,65th Infantry Boringueneers Apts.,1045 N. Sacramento Blvd.,60622,773-772-4801,Hispanic Housing Dev. Corp.,48,41.90048723,-87.70160663,False
+North Lawndale,29,Multifamily,Park Douglas,1262-1300 S. Washtenaw Ave.,60608,773-893-4800,Interstate Realty Management Co.,7,41.86468333,-87.69350477,False
+Near South Side,33,Supportive Housing,The Studios,1801 S. Wabash St.,60616,312-326-5200,East Lake Management Co.,96,41.85779292,-87.62546237,False
+North Lawndale,29,Multifamily,Park Douglas,2707 W. 12th St.,60808,773-893-4800,Interstate Realty Management Co.,5,41.86642326,-87.69375381,False
+Uptown,3,ARO,The Wilmore,4600 N. Kenmore Ave.,60640,773-985-4384,The FLATS,7,41.96543743,-87.65633776,False
+North Lawndale,29,Multifamily,Park Douglas,2642-44 W. 12 th Pl,60608,773-893-4800,Interstate Realty Management Co.,17,41.86577114,-87.69274143,False
+Lower West Side,31,Multifamily,Casa Puebla,2014 S. Racine Ave.,60608,312-666-1323,The Resurrection Project,63,41.85469028,-87.65647821,False
+South Lawndale,30,Multifamily,Casa Tabasco,3515-17 W. 23rd St.,60623,312-248-8355,The Resurrection Project,8,41.84975688,-87.71320473,False
+Austin,25,Multifamily,Rebecca Walker Complex,5565-71 W. Quincy Ave.,60644,773-261-1550,Affordable Property Management Specialist,12,41.8773375,-87.76423685,False
+Austin,22,Multifamily,Madison Renaissance Apts.,1816 N. St. Louis Ave.,60647,773-227-1366,Related Management Co. LP,30,41.91421838,-87.71358429,False
+Calumet Heights,48,Senior,Montclare Senior Residences of Calumet Heights,9401 S. Stony Island Ave.,60617,312-267-4850,Pacific Management Inc.,134,41.72407879,-87.58501024,False
+Uptown,3,Multifamily,Hazel Winthrop Apts.,4426 N. Magnolia Ave.,60640,773-334-5003,Preservation Housing Management LLC,6,41.96252489,-87.66112652,False
+North Lawndale,29,Multifamily,Park Douglas,1310-14 S. Washtenaw Ave.,60608,773-893-4800,Interstate Realty Management Co.,10,41.86433604,-87.69349569,False
+West Town,24,ARO,Avenir,730 N. Milwuakee Ave.,60642,312-837.3920,Tandem Inc.,39,41.89506012,-87.65379018,False
+Lake View,6,ARO,Patterson Green LLC,1118 W. Pattereson Ave.,60613,312-462-4030,Silver Property Group,2,41.94818452,-87.65814611,False
+Humboldt Park,23,Supportive/Males 18-24yrs.,Solid Ground Supportive Housing Program,3507 W. North Ave.,60647,773-276-4900,"La Casa Norte, Inc.",35,41.9099065,-87.71469504,False
+Portage Park,15,Senior,The Kilpatrick Renaissance,4655 W. Burteau Ave.,60641,773-283-4655,The Renaissance Cos.,98,41.95639632,-87.74523589,False
+Auburn Gresham,71,Senior HUD 202,St. Sabina Elder Village Apts.,1222 W. 79th St.,60620,773-994-7850,Catholic Charities Housing Devp.,80,41.75059341,-87.65472675,False
+Near West Side,28,ARO,The Venn,855 W. Madison St.,60607,312-625-8500,John Buck Cos.,59,41.88163114,-87.6495476,False
+Lincoln Park,7,ARO,The Apartments at Lincoln Common,2345 N. Lincoln Ave.,60614,773-989-8000,Realty & Mortgage Co.,54,41.92474121,-87.64756347,False
+Near West Side,28,Multifamily,Westhaven Park Phase IIA,2237 W. Maypole Ave.,60612,312-455-0009,Interstate Realty Management Co.,92,41.88380799,-87.68281702,False
+Portage Park,15,ARO,4812-15 W. Montrose Apts.,4812-15 W. Montrose Ave.,60641,630-694-6968,@properties,2,41.96082581,-87.74807125,False
+West Town,24,ARO,Seven 10 West,710 W. Grand Ave.,60654,414-369-3511,Outlook Management,1,41.89131063,-87.64632446,False
+North Center,5,ARO,1911-21 W. Irving Park Rd.,1911-21 W. Irving Park Rd.,60613,312-285-3749,Campell Street Asset Management Inc.,2,41.95407205,-87.67682369,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,649 N. Sawyer Ave.,60624,773-227-6332,Bickerdike Apts.,6,41.89338882,-87.70756503,False
+Douglas,35,Multifamily,Park Boulevard IIA,3640 S. State St.,60609,773-548-8792,"Urban Property Advisors, LLC",80,41.82792531,-87.62663572,False
+West Garfield Park,26,Supportive Housing,The Rebecca Johnson Apts.,2822 W. Jackson Blvd.,60612,773-638-6393,Deborah's Place Ltd.,52,41.87753589,-87.69706305,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3224 W. Ohio St.,60624,773-227-6332,Bickerdike Apts.,6,41.89199316,-87.70760707,False
+Near North Side,8,ARO,920northwells,920 N. Wells St.,60610,312-319-9200,Willow Bridge,32,41.89965852,-87.63446469,False
+Grand Boulevard,38,Multifamily,Progressive Square,4752 S. Wabash Ave.,60614,773-975-7234,CMHDC/Progressive NFP/Kass Management,107,41.80769903,-87.62455959,False
+West Town,24,ARO,Bucktown Gateway,1667 N. Western Ave.,60647,773-398-5785,Bucktown Gateway,1,41.91223419,-87.68712373,False
+Humboldt Park,23,Multifamily,Tierra Linda Apts.,1757 N. Drake Ave.,60647,773-276-5338,LUCHA,3,41.91343122,-87.71488792,False
+Irving Park,16,Senior,Indepedence Apts.,4022 N. Elston Ave.,60618,312-382-3251,Evergreen Real Estate Services LLC,14,41.95410087,-87.71996013,False
+Avalon Park,45,Senior,Montclare Senior Residences of Avalon Park,1200 E. 78th St.,60619,773-933-9000,Pacific Management Inc.,102,41.75332086,-87.5954564,False
+Humboldt Park,23,Multifamily,Tierra Linda Apts.,1749-51 N. Drake Ave.,60647,773-276-5338,LUCHA,6,41.91321582,-87.71488081,False
+Rogers Park,1,Senior,Caroline Hedger Apts.,6400 N. Sheridan Road,60626,773-743-7273,The CHA,436,41.99821792,-87.66069526,False
+Near West Side,28,Multifamily,Newberry Park Apts.,1355 S. Blue Island Ave.,60608,312-563-0099,AIMCO,124,41.8639941,-87.65575239,False
+Fuller Park,37,Senior,Fellowship Manor,5041 S. Princeton Ave.,60609,773-924-5980,"East Lake Management Group, Inc.",100,41.80241312,-87.63305258,False
+East Garfield Park,27,Supportive Housing,Deborah's Place III,2822 W. Jackson Blvd.,60612,773-638-6490,Deborah's Place,90,41.87753589,-87.69706305,False
+Grand Boulevard,38,Multifamily,Williard Square Apts.,4907 S. St. Lawrence Ave.,60615,773-536-0200,"Metroplex, Inc.",100,41.80556343,-87.61121843,False
+Lake View,6,ARO,Low-Line Commons,3421 N. Ashland Ave,60657,773-739-8839,33 Realty,5,41.94400253,-87.66863395,False
+Rogers Park,1,Senior,Levy House,1221 W. Sherwin Ave.,60626,773-508-1000,Preservation Housing Management LLC,57,42.01493175,-87.66346312,False
+Near North Side,8,SRO,The Mark Twain,111 W. Division St.,60610,312-913-7400,Realty & Mortgage Co.,148,41.90378167,-87.63199057,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,601 N. Drake Ave,60624,773-227-6332,Bickerdike Apts.,6,41.89190162,-87.71483993,False
+East Garfield Park,27,Multifamily,Homan Square Apartments Phase VI,3609 W. Arthington St.,60624,773-722-7320,Realty & Mortgage Co.,52,41.86982456,-87.71590385,False
+Rogers Park,1,Senior,James Sneider Apts.,7450 N. Rogers Ave.,60626,773-743-3699,Hispanic Housing Dev. Corp.,57,42.01714971,-87.67317857,False
+Lincoln Park,7,People with Disabilities,Halsted Apts.,2537 N. Halsted St.,60614,773-716-3892,Anixter Center Housing Services,14,41.92835383,-87.64871676,False
+North Lawndale,29,Multifamily,Park Douglas,1218-20 S. Washtenaw Ave.,60608,773-893-4800,Interstate Realty Management Co.,29,41.8658847,-87.69353817,False
+Uptown,3,Multifamily,Uptown Preservation Apts.,4431 N. Clifton Ave.,60640,773-286-5400,Leasing & Management Co. Inc.,18,41.96265369,-87.65819285,False
+Near West Side,28,Supportive,Harvest Commons,1519 W. Warren Blvd.,60607,312-660-1354,Heartland Houisng Inc.,89,41.88227183,-87.66598098,False
+Belmont Cragin,19,ARO,Galewood Flats,2114 N. Nashville Ave.,60707,773-648-7855,Daniel Management Group,1,41.9187611,-87.78963176,False
+Humboldt Park,23,Multifamily,La Estancia,3248 W. Division St.,60651,773-227-6332,Bickerdike Apts.,9,41.90292371,-87.7086161,False
+Grand Boulevard,38,Multifamily,Mayfair Apts.,4832 S. Vincennes Ave.,60615,773-752-0382,TLC Management Co.,67,41.80664653,-87.61400757,False
+Austin,25,Supportive Housing,Mayfield Apts.,148 N. Mayfield Ave.,60644,312-660-1374,Heartland Housing Inc.,39,41.88363584,-87.77205264,False
+North Lawndale,29,Multifamily,Park Douglas,2652 W. 12th Pl,60608,773-893-4800,Interstate Realty Management Co.,4,41.8657664,-87.69316184,False
+Near South Side,33,Multifamily,Hilliard Homes Phase II,2031 S. Clark St.,60616,312-326-1455,Holsten Management Corp.,176,41.8544114,-87.62999188,False
+Jefferson Park,11,Senior,Senior Suites of Jefferson Park,5400 N. Northwest Hwy.,60630,773-775-7333,Senior Lifestyle Corp.,73,41.97839039,-87.77439957,False
+Logan Square,22,Multfamily,Tierra Linda Apts.,1858 N. Spaulding Ave.,60647,773-276-5338,LUCHA,3,41.91544934,-87.71038198,False
+North Park,13,Senior,Edward M. Marx Apts.,5801 N. Pulaski Road,60646,773-583-4182,Elderly Housing Devp. & Operations Corp.,180,41.98593151,-87.72836921,False
+Grand Boulevard,38,Multifamily,Geneva Gables,4420-24 S. Michigan Ave.,60653,773-924-7700,Tri-Mart Management Co.,65,41.81406086,-87.62311222,False
+West Town,24,Multifamily,Borinquen Bella Apts.,"1414,1451 N. Washtenaw Ave.",60622,773-276-5338,LUCHA,23,41.90708504,-87.69461792,False
+West Ridge,2,ARO,"5822 North Western, LLC",5822 N. Western Ave.,60659,773-572-2755,Chicago Apartment Finders,2,41.98752226,-87.68971871,False
+West Town,24,Multifamily,North and Talman Family Apts.,2654 W. North Ave.,60647,773-486-7410,Hispanic Housing Dev. Corp.,30,41.91035449,-87.69432564,False
+Lincoln Square,4,ARO,The Westner,4618 N. Western Ave.,60625,773-975-7234,Kass Management,2,41.96549759,-87.68895433,False
+Hyde Park,41,ARO,Vue53,1330 E. 53rd St.,60615,773-355-4972,Peak Campus,27,41.79959787,-87.59376104,False
+Woodlawn,42,Multifamily,65th Street Apts.,817 E. 64th St.,60637,773-684-2056,"Urban Property Advisors, LLC",6,41.77849343,-87.60507242,False
+Albany Park,14,Senior,Mayfair Commons,4444 W. Lawrence Ave.,60630,773-205-7862,"Metroplex, Inc.",97,41.96822423,-87.73974749,False
+Uptown,3,Multifamily,Malden Arms Apts.,4727 N. Malden St.,60640,773-334-2164,Mercy Housing,41,41.96799271,-87.66263241,False
+Lincoln Square,4,ARO,2247 W. Lawrence Ave.,2247 W. Lawrence Ave.,60625,312-266-1515,CA Urban Living,2,41.96854643,-87.68590367,False
+Washington Park,40,Multifamily,St. Edmund's Manor,5947 S. Indiana Ave.,60653,773-548-8924,St. Edmund's Manor Ltd.,24,41.78604936,-87.62047574,False
+West Englewood,67,Multifamily,Clara Temple Hampton Residence,1656 W. 63rd St.,60636,773-778-2884,West Englewood Dev. Org.,71,41.77953039,-87.66652651,False
+Lower West Side,31,ARO,Blue Island,1907 S. Blue Island Ave.,60608,844-783-6887,Ventus Holdings LLC,1,41.85576873,-87.66277433,False
+Belmont Cragin,19,Senior,Senior Suites of Belmont-Cragin,6045 W. Grand Ave.,60639,773-237-1333,Senior Lifestyle Corp.,86,41.92079101,-87.77747755,False
+North Lawndale,29,Multifamily,Dicksons Estates Apts.,1129 S. Sacramento Ave.,60612,773-638-0386,Dickson Estates Apartments,48,41.86736961,-87.70066623,False
+Near West Side,28,ARO,171 N. Aberdeen St.,171 N. Aberdeen St.,60607,312-371-4527,Aberdeen East,6,41.88514499,-87.65431537,False
+Humboldt Park,23,Multifamily,Tierra Linda Apts.,1649-51 N. Drake Ave.,60647,773-276-5338,LUCHA,6,41.91146242,-87.71482723,False
+Lake View,6,ARO,The Medallion,3121 N. Broadway,60657,"224-470-6824, ext. 2",Cagan Management Group,7,41.97510735,-87.65924996,False
+North Lawndale,29,Multifamily,Renaissance Place Apts.,3128 W. Douglas Blvd.,60623,773-762-3389,Lawndale Christian Residential Svcs.,11,41.86308761,-87.70428319,False
+Near West Side,28,Multifamily,Jackson Square West End,2425 W. Adams St.,60612,312-492-6645,East Lake Management Co.,115,41.8784239,-87.68736835,False
+Uptown,3,Senior,Wilson Yard Senior Apts.,1032 W. Montrose Ave,60613,866-227-0438,Holsten Real Estate Dev. Corp.,13,41.96186585,-87.65610743,False
+Lower West Side,31,Multifamily,Casa Chiapas,1712 W. 17th St.,60608,312-666-1323,The Resurrection Project,72,41.85876878,-87.66938208,False
+Roseland,49,Inter-generational,Roseland Village Grand-Family Apts.,63 E. 104th St.,60628,773-468-1901,Mercy Housing,10,41.70526978,-87.62098184,False
+West Town,24,ARO,1038 N. Ashland,1038-40 N. Ashland Ave.,60622,312-600-4501,Honore Properties,2,41.90089079,-87.66757227,False
+Near West Side,28,Senior,McCrory Senior Apts.,1637-59 W. Washington Blvd.,60612,312-243-3333,Leasing & Management Co. Inc.,62,41.88316474,-87.66838158,False
+Uptown,3,Women's Supportive,Sarah's House,4836 N. Sheridan Road,60640,773-751-7475,Sarah's Circle,10,41.97022435,-87.6549972,False
+Portage Park,15,ARO,4015 Narragansett LLC,4015-23 N. Narragansett Ave.,60634,847-653-6922,Zidan Management Group,2,41.95344562,-87.78643375,False
+Lake View,6,ARO,Wrigleyville Lofts,949 W. Dakin St.,60613,312-985-0121,Draper and Kramer,8,41.95347834,-87.65408289,False
+North Lawndale,29,Multifamily,Park Doulglas,1345 S. Fairfield Ave.,60608,773-893-4800,Interstate Realty Management Co.,17,41.86339815,-87.69440189,False
+Uptown,3,Multifamily,Uptown Preservation Apts.,927 W. Wilson Ave.,60640,773-286-5400,Leasing & Management Co. Inc.,18,41.96533937,-87.65347906,False
+Uptown,3,ARO,Saxony Wilson,1630 W. Wilson Ave.,60640,312-243-5353,Malet Realty,2,41.96532595,-87.67068252,False
+Washington Heights,73,Senior,Senior Suites of Washington Heights,848 W. 103rd St.,60643,773-233-1333,Senior Lifestyle Corp.,82,41.70700943,-87.64478166,False
+South Lawndale,30,Multifamily,Casa Sor Juana,2700 S. Drake Ave.,60623,312-850-1935,The Resurrection Project,29,41.84247656,-87.71366715,False
+New City,61,Multifamily,Senior Suites of New City,4845 S. Western Blvd.,60609,773-523-9333,Senior Lifestyle Co.,115,41.80531018,-87.68362994,False
+North Lawndale,29,Multifamily,Park Douglas,1260 S. Fairfield Ave.,60608,773-893-4800,Interstate Realty Management Co.,1,41.86472904,-87.69473582,False
+Humboldt Park,23,Multifamily,Harold Washington Unity Coop,3120-38 W. Ohio St.,60612,773-227-6332,Bickerdike Apts.,12,41.89202224,-87.70496955,False
+Hyde Park,41,ARO,5432-44 S. Woodlawn,5432 S. Woodlawn Ave.,60615,312-480-0933,Bickerdike Apts.,10,41.79696316,-87.59673531,False
+West Town,24,ARO,Centrum Wicker Park,1664 W. Division St.,60622,312-330-3210,Centrum Partners,6,41.90341508,-87.66997144,False
+Uptown,3,ARO,Solverre,4600 N. Marine Dr.,60640,312-601-4600,Willow Bridge,8,41.96557833,-87.64878266,False
+Lake View,6,ARO,927 W. Irving,927 W. Irving Park Rd.,60613,773-665-0103,DLG Management,1,41.95439818,-87.65321906,False
+Englewood,68,Senior,Montclare JoAnn Thompson Senior Residences,6332 S Green St.,60621,312-267-4850,Pacific Management Inc.,102,41.77867633,-87.64613601,False
+Belmont Cragin,19,Senior,Belmont Place Apts.,4645 W. Belmont Ave.,60641,773-427-1400,Perlmark Realty Management,110,41.938767,-87.74326301,False
+Humboldt Park,23,Supportive/Veterans,Hope Manor Apts.,3053 W. Franklin Blvd.,60612,773-475-6703,Volunteers of America Illinois,50,41.88999235,-87.70368677,False
+Woodlawn,42,Multifamily,Dorchester Apts.,1410 E. 62nd St.,60637,773-572-5500,The Thresholds,67,41.78250522,-87.59096164,False
+Uptown,3,ARO,Upshore Chapter,4555 N. Sheridan Road,60640,312-229-6446,33 Realty,7,41.96527256,-87.65463604,False
+North Lawndale,29,Multifamily,Lawndale Restoration II Apts. (scattered sites),10 N. Hamlin Ave.,60613,312-337-5339,Holsten Management Corp.,170,41.88109233,-87.72091009,False
+Uptown,3,Multifamily,Sunnyside Kenmore Apts.,847-49 W. Sunnyside Ave.,60640,773-769-3116,"Metroplex, Inc.",83,41.9635354,-87.65179619,False
+Belmont Cragin,19,Senior,Crystal Courts/Anixter Center,5038 W. Armitage Ave.,60639,773-385-9080,Lester and Rosalie Anixter Center,17,41.91696054,-87.75247249,False
+Hegewisch,55,Senior,Senior Suites of Hegewisch,13550 S. Avenue O,60633,773-646-1333,Senior Lifestyle Corp.,116,41.64845741,-87.54012317,False
+Lincoln Square,4,ARO,The Convent,4927 N. Claremont Ave.,60625,773.665.0103,DLG Management,3,41.97127368,-87.6876361,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3108 W. Franklin Blvd.,60624,773-227-6332,Bickerdike Apts.,6,41.89020402,-87.70435734,False
+Belmont Cragin,19,ARO,2917-39 N. Central,2917-39 N. Central Ave.,60634,847-653-6922,Zitella Development,3,41.93364805,-87.7661803,False
+Roseland,49,Senior,Roseland Place Senior Apts.,10426 S. Michigan Ave.,60628,773-468-1901,Mercy Housing,59,41.70460868,-87.62071293,False
+Washington Park,40,Multifamily,St. Edmund's Commons,110 E. 60th St.,60637,773-420-3328,St. Edmund's Redevelopment Corp.,54,41.78570095,-87.6217485,False
+South Chicago,46,Multifamily,Casa Kirk,3248 E. 92nd St.,60617,773-734-2884,Interfaith Housing Corp.,29,41.72840878,-87.54682246,False
+Douglas,35,ARO,Unity Hall,3138-40  S. Indiana Ave.,60616,773-572-0880,Westward 360,2,41.83717695,-87.62203977,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3500 W. Ohio St.,60624,773-227-6332,Bickerdike Apts.,6,41.89192949,-87.71382831,False
+Auburn Gresham,71,Senior,Auburn Commons,1626 W. 87th St.,60620,773-238-0850,"Urban Property Advisors, LLC",72,41.73588515,-87.66414272,False
+North Lawndale,29,Multifamily,Lazarus Apartments,1859 S. Pulaski Ave.,60623,773-762-3389,Lawndale Christian Residential Svcs.,26,41.85533972,-87.72471008,False
+Near South Side,33,Multifamily,Hilliard Homes Phase I,2030 S. State St.,60616,312-225-7610,Holsten Real Estate Dev. Corp.,170,41.85453503,-87.62726774,False
+Logan Square,22,Multifamily,Zapata Apts.,1955 N. St. Louis Ave.,60647,773-227-6332,Bickerdike Apartments,3,41.91725524,-87.71338923,False
+West Town,24,ARO,Luxe on Chicago,1838 W. Chicago Ave.,60622,312-581-9980,Fifield Co.,4,41.89607519,-87.67373584,False
+Auburn Gresham,71,Multifamily,Stone Terrace,8440 S. Parnell Ave.,60620,773-651-9234,East Lake Management & Development Corp.,56,41.74018636,-87.63781991,False
+Grand Boulevard,38,Multifamily,Paul G. Stewart Phase III Tower,401 E. Bowen Ave.,60653,312-924-2100,Paul G. Stewart Assoc.,180,41.81922851,-87.61645178,False
+Logan Square,22,ARO,1957 N.Fairfield/2701 W. Armitage,1957 N. Fairfiled Ave.,60647,773-772-8500,Wilmot Properties,6,41.91735785,-87.69582442,False
+North Center,5,Senior,North Center Senior Apts.,2324 W. Irving Park Road,60618,773-478-8900,"Metroplex, Inc.",60,41.95414467,-87.68697505,False
+Roseland,50,Senior,Pullman Suites,15 E. 112th Place,60628,773-840-3993,Triangle & Assoc.,60,41.68976374,-87.62239508,False
+West Town,24,ARO,Westerly Apts.,740 N. Aberdeen St.,60642,312-366-2965,Fifield Cos.,3,41.89533182,-87.65523984,False
+Oakland,36,Multifamily,Lakefront Phase II,4131 S. Lake Park Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",6,41.81914922,-87.60016504,False
+Humboldt Park,23,Multifamily,Harold Washington Unity Coop,636-38 N. Albany Ave.,60612,773-227-6332,Bickerdike Apts.,8,41.89303226,-87.70416298,False
+Uptown,3,ARO,811 Uptown,811 W. Agatite Ave.,60640,773-831-6098,RL Accelerated,22,41.96263002,-87.65043043,False
+Lower West Side,31,Multifamily,Casa Colima,1427 W. Cullerton St.,60608,312-666-1323,The Resurrection Project,3,41.8550271,-87.66233036,False
+Woodlawn,42,Multifamily,65th Street Apts.,6400 S. Maryland Ave.,60637,773-684-2056,"Urban Property Advisors, LLC",15,41.77861094,-87.60479472,False
+Woodlawn,42,Multifamily,Renaissance Apts.,6200 S. University Ave.,60637,773-752-9400,AIMCO,64,41.782231,-87.59801573,False
+Near South Side,33,Senior,Senior Suites of Central Station,1400 S. Indiana Ave.,60605,312-913-9333,Senior Lifestyle Corp.,276,41.86402666,-87.62262043,False
+Near South Side,33,Senior,Hilliard Homes Phase II,30 W. Cermak Road,60616,312-326-1466,Holsten Management Corp.,151,41.85301339,-87.62823221,False
+Oakland,36,Multifamily,Lakefront Phase II,1120 E. Bowen Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",6,41.81886099,-87.59923619,False
+Riverdale,54,Multifamily,Eden Green Apts.,301 E. 132nd Pl,60627,773-568-7033,Habitat Company,258,41.65493945,-87.61428283,False
+Montclare,18,ARO,2931-57 N. Harlem LLC,2931-57 N. Harlem Ave.,60707,872-256-8321,The Brixen,5,41.93350027,-87.80644193,False
+Near West Side,28,Multifamily,City Gardens,320 S. Maplewood Ave.,60612,844-842-2779,Interstate Realty Management Co.,76,41.87698195,-87.69022214,False
+Near  South Side,33,Senior,The Park at Central Station,1251 S. Michigan Ave.,60605,855-272-4356,Brookfield Properties,91,41.86607901,-87.62397407,False
+East Garfield Park,27,Supportive Housing,East Park Apts.,3300 W. Maypole Ave.,60624,773-826-3300,The Habitat Co.,152,41.88369802,-87.7089025,False
+Englewood,68,Veterans,Hope Manor Village,5900-6100 S. Green/Peoria/Sangamon,60621,312-564-2393,Volunteers of America Illinois,36,41.78691549,-87.64632871,False
+Norwood Park,10,Senior,Senior Suites of Norwood Park,5700 N. Harlem Ave.,60631,888-339-2315,Senior Lifestyle,84,41.98466628,-87.80707301,False
+Near North Side,8,SRO/Supportive,Schiff Residences,1244 N. Clybourn Ave.,60610,312-867-1442,Mercy Housing Management Group,96,41.9044877,-87.6407798,False
+Logan Square,22,Senior,Renaissance West,2517 W. Fullerton Ave.,60647,773-862-2500,Habitat Company,41,41.9247621,-87.69066098,False
+Rogers Park,1,Senior,Wayne Senior Housing,6928 N. Wayne Ave.,60626,773-274-0177,CIG Management,119,42.00757377,-87.66517114,False
+East Garfield Park,27,Multifamily,Rockwell Gardens Phase IA & IIA,2653 W. Madison St.,60612,312-492-6645,East Lake Management & Development Corp.,143,41.88098907,-87.69300683,False
+Uptown,3,ARO,Somerset Place Apts.,5009 N. Sheridan Road,60640,317-596-2168,Zidan Management Group,16,41.97361773,-87.65478924,False
+Lake View,6,Senior Supportive Living,Renaissance St. Luke Greenview Place,1501 W. Melrose St.,60657,773-525-1501,"RRG Development, Inc.",97,41.94053116,-87.66638261,False
+North Center,5,ARO,The Henry,1819 W. Montrose Ave.,60613,872-206-9635,The FLATS,4,41.96139512,-87.67520801,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,526 N. St. Louis Ave.,60624,773-227-6332,Bickerdike Apts.,12,41.8909481,-87.71388693,False
+Garfield Ridge,56,Senior,Midway Pointe Senior Living,5011 W. 47th St.,60638,872-302-4010,Perlmark Realty Management LLC,85,41.80744124,-87.74856678,False
+Roseland,49,Multifamily,Roseland Ridge Apts.,10513 S. Michigan Ave.,60628,773-341-3158,NHS Redevelopment Corp.,40,41.70307738,-87.62054468,False
+Woodlawn,42,Multifamily,Trianon Lofts,803 E. 61st St.,60637,773-955-8668,Preservation Housing Management LLC,12,41.783951,-87.60584338,False
+Near West Side,28,Mutifamily,Roosevelt Square Phase I & II,1346 W. Rolosevelt Road,60607,312-948-0116,Related Management Co. LP,160,41.86703473,-87.66099661,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,521 N. St. Louis Ave.,60624,773-227-6332,Bickerdike Apts.,6,41.89090793,-87.71359179,False
+Near West Side,28,Senior,Roosevelt Place,1401 W. Roosevelt Road,60608,312-733-2436,"East Lake Management Group, Inc.",181,41.86680605,-87.66169184,False
+Lake View,6,Senior LGBTQ,Town Hall Apts.,3600 N. Halsted St.,60613,773-472-6463,Heartland Houing Inc.,79,41.94740173,-87.64963658,False
+North Lawndale,29,Supportive/HIV/AIDS,Phoenix House,1251 S. Sawyer Ave.,60623,773-935-4663,"AIDSCare, Inc.",32,41.86482901,-87.70669366,False
+Douglas,35,Multifamily,Park Boulevard IIA,17 W. 36th St.,60609,773-548-8792,"Urban Property Advisors, LLC",36,41.82906211,-87.62716568,False
+Woodlawn,42,Multifamily,Eddie Mae & Alex Johnson Apts.,6230 S. Dorchester Ave.,60637,773-288-4202,Woodlawn East Community,84,41.78143113,-87.59152085,False
+West Englewood,67,Multifamily,New West Englewood Homes,2109 W. 63rd St.,60636,773-434-4929,Interfaith Housing Corp.,12,41.77916703,-87.67675695,False
+East Garfield Park,27,Multifamily/Artists,Switching Station Lofts,15 S. Homan Ave.,60624,312-859-0577,Holsten Management Corp.,24,41.88041381,-87.71084273,False
+Uptown,3,ARO,The Fifth,4453 N Hazel,60640,773-404-9900,The Apartment Source,3,41.96340154,-87.65221421,False
+North Lawndale,29,Multifamily,Park Douglas,1317-19 S. Fairfield Ave.,60608,773-893-4800,Interstate Realty Management Co.,29,41.86412462,-87.69442467,False
+Douglas,35,Multifamily,Park Boulevard IIB,3700 S. Dearborn St.,60609,773-548-8792,"Urban Property Advisors, LLC",72,41.82719422,-87.62784358,False
+North Center,5,ARO,HW,2405 W. Hutchinson St.,60618,847-786-5663,KR Developments,5,41.95846686,-87.68890077,False
+Woodlawn,42,Multifamily,65th Street Apts.,6522 S. Ingleside Ave.,60637,773-684-2056,"Urban Property Advisors, LLC",18,41.77610371,-87.60232857,False
+Near North Side,8,ARO,AMLI 808,808 N. Wells St.,60610,312-279-0880,AMLI Realty Co.,32,41.89690353,-87.63436122,False
+Grand Boulevard,38,Multifamily,Cornerstone Apts.,636 E. 50th St.,60615,312-577-5555,The Community Builders Inc.,5,41.80413302,-87.60993412,False
+Kenwood,39,Multifamily,Drexel Preservation,837 E. 47th St.,60653,773-624-4901,The Habitat Co.,155,41.80944088,-87.60503342,False
+East Garfield Park,27,Multifamily,Harvest Homes,3512-46 W. Fifth Ave.,60624,312-216-5103,Realty & Mortgage Co.,36,41.87638462,-87.71361194,False
+Near West Side,28,Multifamily,Taylor Street Apts.,1342 W. Taylor St.,60607,312-595-7400,Related Management,29,41.86945986,-87.66095569,False
+Oakland,36,Multifamily,Drexel Street Properties,848 E. 40th St.,60653,312-842-5500,East Lake Management,61,41.82180819,-87.6045465,False
+Oakland,36,Multifamily,Lakefront Phase II,4143 S. Lake Park Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",3,41.81881289,-87.59996595,False
+Grand Boulevard,38,Multifamily,Legends South - Coleman Place,223 E. 41st St.,60653,773-268-0202,Interstate Realty Management Co.,118,41.82007455,-87.6204233,False
+Montclare,18,Senior,The Montclare Senior Residences,6650 W. Belden Ave.,60707,773-237-3831,Pacific Management Inc.,7,41.92130822,-87.79209096,False
+Logan Square,22,Multifamily,Tierra Linda Apts.,3572 W. Palmer St.,60647,773-276-5338,LUCHA,3,41.921058,-87.71651501,False
+Woodlawn,42,Multifamily,Woodlawn Station,6253 S. Cottage Grove Ave.,60637,773-955-8668,Preservation Housing Management LLC,55,41.78067286,-87.60578926,False
+Grand Boulevard,38,Multifamily,Legends South - Mahalia Place,116 E. 43rd St.,60653,773-285-9500,Interstate Realty Management Co.,110,41.81666256,-87.62226472,False
+Brighton Park,58,Multifamily,El Zócalo,3246 W. 47th St.,60632,312-870-4747,H&J Real Estate Management,30,41.80820589,-87.70586474,False
+Kenwood,29,Multifamily,Greenwood Park Apts.,4700 S. Greenwood Ave.,60615,312-967-6075,Preservation Housing Management LLC,122,41.80952205,-87.59941065,False
+Uptown,3,Multifamily,Uptown Preservation Apts.,900 W. Windsor Ave.,60640,773-286-5400,Leasing & Management Co. Inc.,160,41.9645923,-87.65250544,False
+Near North Side,8,SRO,The Marshall Apts.,1232 N. LaSalle Drive,60610,877-969-2102,Interstate Realty Management Co.,90,41.90484145,-87.63310113,False
+Austin,25,Senior,Mt. Vernon Manor,30 N. Waller Ave.,60644,773-626-3298,Waller Street L.P.,60,41.88110332,-87.76830155,False
+Near North Side,8,Multifamily,Parkside-I Rental,545 W. Division St.,60610,312-944-8500,Holsten Management Corp.,116,41.90360901,-87.6430754,False
+Austin,25,Multifamily,Congress Commons LLC,504 S. Laramie Ave.,60644,773-287-1592,Congress Commons LLC,161,41.87376512,-87.7549712,False
+West Town,24,ARO,Wicker Park Connection,1640 W. Division St.,60647,312-330-3210,rmk Management,20,41.90342906,-87.66912961,False
+Austin,25,Senior HUD 202,Elois McCoy Village Apts.,4650 W. Van Buren St.,60644,773-626-5320,"Prairie Management & Development, Inc.",60,41.87516675,-87.74216784,False
+Washington Heights,73,Senior,Brainerd Senior Center,8915 S. Loomis St.,60620,773-429-1501,Realty & Mortgage Co.,60,41.73164453,-87.65793186,False
+Washington Park,40,Multifamily,St. Edmund's Village,6253 S. Michigan Ave.,60653,773-493-2411,St. Edmund's Village LP,31,41.78040369,-87.62183749,False
+Englewood,68,Supportive/Veterans,Hope Manor II Apts.,6002 S. Halsted St.,60621,773-874-3610,Voluinteers of America Illinois,73,41.78499449,-87.64506314,False
+Pullman,50,Multifamily,Pullman Wheelworks,901 E. 104th St.,60628,773-785-1300,Mercy Housing,210,41.70556659,-87.60107403,False
+Oakland,36,Multifamily,Lakefront Phase II,1128 E. Bowen Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",3,41.81894603,-87.59897812,False
+Uptown,3,Multifamily,Hazel Winthrop Apts.,912 W. Montrose Ave.,60640,773-334-5003,Preservation Housing Management LLC,6,41.96191266,-87.65290164,False
+Roseland,49,Supportive Housing,Wentworth Commons,11045 S. Wentworth Ave.,60628,773-568-7804,Mercy Housing Lakefront,50,41.69301591,-87.62776735,False
+Lake View,6,ARO,Viridian on Sheridan,734 W. Sheridan Rd.,60613,847-250-4900,rmk Management,2,41.95286969,-87.64934018,False
+Loop,32,Multifamily,Randolph Tower City Apts. (studios only),188 W. Randolph St.,60601,312-291-8679,Village Green Management Co.,16,41.88457966,-87.63375683,False
+West Town,24,ARO,East Village Lofts,1100 N. Ashland Ave.,60622,773-278-8078,Wicker Park Apartments Inc.,1,41.901559,-87.66759184,False
+West Town,24,ARO,1938 W. North Ave.,1938 W. North Ave.,60622,312-423-5508,Dream Town Realty,2,41.91061185,-87.67650857,False
+Albany Park,14,Senior,Senior Suites of Ravenswood Manor,2800 W. Montrose Ave.,60618,773-509-9333,Senior Lifestyle Corp.,80,41.96135865,-87.69854417,False
+Auburn Gresham,71,Senior HUD 202,Naomi & Sylvester Smith Senior Living Ctr.,8031 S. Halsted St.,60620,773-651-6400,"HSR Property Services, LLC",59,41.74822238,-87.6438257,False
+Near West Side,28,ARO,Atrio,1922 W. Ogden Ave.,60612,833-365-8945,Marquette Management Inc.,52,41.87433639,-87.67473402,False
+Grand Boulevard,38,Senior HUD 202,Margaret Ford Manor Independent Living,4500 S. Wabash Ave.,60653,773-924-9171,"HSR Property Services, LLC",63,41.81297966,-87.62470713,False
+Lake View,6,Supportive,Buffet Place,3208 N. Shefield Ave.,60657,312-572-5272,Thresholds,51,41.94022814,-87.65426349,False
+Uptown,3,ARO,4420 N. Sheridan Apts.,4420 N. Sheridan Road,60640,312-850-2620,Quest Chicago,1,41.96240536,-87.65490367,False
+Portage Park,15,ARO,Clarendale Six Corners,4715 W. Irving Park Road,60641,872-278-4179,Life Care Services,11,41.95332945,-87.74613601,False
+Lower West Side,31,ARO,Woodwork Lofts,1414-48 W. 21st St.,60608,312-576-7392,Stellar Performance Inc.,10,41.85434832,-87.66187526,False
+South Chicago,46,Supportive Housing,Bettendorf Place SRO,8425 S. Saginaw Ave.,60617,773-359-4902,Alexian Brothers Bonaventure House,23,41.74195912,-87.5598599,False
+Logan Square,22,Multifamily,Zapata Apts.,3503 W. Armitage Ave,60647,773-227-6332,Bickerdike Apartments,12,41.91720928,-87.71368201,False
+Lincoln Square,4,ARO,SB 1900 W Lawrence Ave LLC,1900 W. Lawrence Ave.,60640,217-253-2040,CA Urban Living,6,41.96890358,-87.67628265,False
+Edgewater,77,Multifamily,Winthrop Apts.,6214 N. Winthrop Ave.,60660,773-477-7070,Hunter Properties,108,41.99501546,-87.65851604,False
+South Shore,43,Multifamily,Jeffrey Towers Apts.,7020 S. Jeffrey Blvd.,60649,872-777-4924,Interfaith Housing Corp.,136,41.76735295,-87.57647796,False
+Humboldt Park,23,Supportive Housing,Humboldt Park Residences,1152 N. Christiana Ave.,60647,773-276-5338,LUCHA,69,41.9025858,-87.71076053,False
+Uptown,3,ARO,LALux Apts.,4747 N. Ashland Ave.,60640,773-281-5252,Peak Properties,4,41.96844754,-87.66928182,False
+Near North Side,8,Multifamily,Parkside of Old Town Phase IIA,544 W. Oak St.,60610,312-640-6032,Holsten Real Estate Dev. Corp.,111,41.90052524,-87.64295528,False
+Douglas,35,Mutifamily,Park Boulevard IIB,15 W. 37th St.,60609,773-548-8792,"Urban Property Advisors, LLC",12,41.82720892,-87.62722672,False
+Oakland,36,Multifamily,Lakefront Phase II,1137 E. Bowen Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",3,41.81886863,-87.59851524,False
+West Ridge,2,ARO,Joy Plaza Residences,6411 N. Rockwell Ave.,60645,224-534-9361,Devon NJ LLC,3,41.99802217,-87.69463113,False
+Douglas,35,Multifamily,Park Boulevard IIB,3633 S. State St.,60609,773-548-8792,"Urban Property Advisors, LLC",12,41.82865019,-87.62635888,False
+North Park,13,Senior,J. Michael Fitzgerald Apts.,5801 N. Pulaski Road,60646,773-588-1725,Elderly Housing Devp. & Operations Corp.,63,41.98593151,-87.72836921,False
+Lincoln Park,7,ARO,The Ludlow,2032 N. Clybourn Ave.,60614,312-261-8568,Peak Properties,25,41.90378958,-87.63982077,False
+Bridgeport,19,Senior,Archer Avenue Senior Residences,2928 S. Archer Ave.,60608,773-376-2360,Preservation Housing Management LLC,55,41.84148167,-87.65856844,False
+West Town,24,Multifamily,Boulevard Court Family Housing,1723-33 N. Humboldt Blvd.,60647,773-486-7410,Hispanic Housing Dev. Corp.,52,41.91272269,-87.70144893,False
+Oakland,36,Multifamily,Lakefront Phase II,1125 E. Bowen Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",3,41.81871188,-87.59894571,False
+West Ridge,2,Senior,Lincoln Village Senior Apts.,6057 N. Lincoln Ave.,60659,773-338-5900,Perlmark Realty Management,99,41.99186565,-87.70954508,False
+North Lawndale,29,Veterans,Roosevelt Road Veterans Hsg.,2908 W. Roosevelt Road,60612,773-435-8300,A Safe Haven Foundation,90,41.8665873,-87.69877877,False
+Montclare,18,Senior Supportive Living,Victory Centre of Galewood,2370 N. Newcastle Ave.,60707,773-917-8383,Pathway Senior Living,78,41.923277,-87.79721089,False
+Lake View,6,ARO,SOBE Apts.,3208 N. Southport Ave.,60657,773-680-8644,Newport Realty,1,41.94005906,-87.6639765,False
+West Town,24,Supportive Housing,Wicker Park Renaissance,1527-31 N. Wicker Park Ave.,60622,773-278-8602,"RRG Development, Inc.",102,41.90876874,-87.67689152,False
+Oakland,36,Senior,Oakwood Shores Terrace,3755 S. Cottage Grove Ave.,60653,773-373-1300,"The Community Builders, Inc.",148,41.82631731,-87.60794545,False
+North Park,13,Senior,North Park Village Apts.,5801 N. Pulaski Road,60646,773-478-6890,Elderly Housing Devp. & Operations Corp.,137,41.98593151,-87.72836921,False
+South Shore,43,Senior,Senior Suites of Rainbow Beach,2804 E. 77th Place,60649,773-374-5333,Senior Lifestyle Corp.,87,41.7546866,-87.55496472,False
+Oakland,36,Multifamily,Lakefront Phase II,4130 S. Oakenwald Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",6,41.81938039,-87.59887932,False
+Near North Side,8,ARO,Atrium at Old Town Park,300 W. Hill St.,60610,312-642-8707,Omni Group,41,41.90219524,-87.63592092,False
+Near North Side,8,ARO,Onni Atrium Devp.,202 W. Hill St.,60610,312-585-6776,Onni Group,43,41.90221192,-87.63457152,False
+Near West Side,28,ARO,The Thompson,150 N. Ashland Ave.,60607,872-264-5548,Marquette Management,32,41.88483229,-87.66704832,False
+Rogers Park,1,Senior,Morse Senior Apts.,1528 W. Morse Ave.,60626,312-602-6207,CIG Management,44,42.00757377,-87.66517114,False
+Englewood,68,Supportive Housing,Rowan Trees Apts.,500 W. Englewood Ave.,60621,773-572-5272,The Thresholds,167,41.78090936,-87.63761782,False
+Logan Square,22,ARO,Noca Blu,2328-48 N. California Ave.,60647,773-897-5221,Trilogy Residential Management,14,41.92365685,-87.69753123,False
+Oakland,36,Multifamily,Lakefront Phase II,4116 S. Oakenwald Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",3,41.8195725,-87.59929085,False
+New City,61,Multifamily,Casa Hidalgo,4600 S. Wood St.,60609,312-248-8355,The Resurrection Project,10,41.81028546,-87.67002227,False
+Lower West Side,31,Multifamily,Casa Guanajuato,1313 W. 19th St.,60608,312-666-1323,The Resurrection Project,6,41.85597939,-87.65939108,False
+Near West Side,28,ARO,1218 W Lexington St,1218 W. Lexington St.,60607,312-600-4501,Honore Properties,3,41.87235139,-87.65756071,False
+Lake View,6,ARO,The Bel,941 W. Belmont Ave.,60657,773-327-4975,33 Realty,4,41.93981159,-87.65316391,False
+Logan Square,22,Multifamily,Pennycuff Apts.,2031 N. Milwaukee Ave.,60647,773-799-8924,Metropolitan Housing Dev. Corp.,41,41.91822962,-87.68946889,False
+West Pullman,53,Supportive Housing,Hancock House,12045 S. Emerald Ave.,60628,773-568-3000,Source Works Development,90,41.67469008,-87.64051484,False
+Grand Boulevard,38,Multifamily,Cornerstone Apts.,4950 S. Langley Ave.,60615,312-577-5555,The Community Builders Inc.,21,41.80435535,-87.60902296,False
+North Lawndale,29,Multifamily,Park Douglas,2639 W. 12th Pl,60608,773-893-4800,Interstate Realty Management Co.,5,41.86555368,-87.69250717,False
+Grand Boulevard,38,Senior,Bronzeville Senior Apts.,460 E. 41st St.,60653,773-924-2100,Peoples Co-Op Management Service,97,41.82038154,-87.61438244,False
+Lake View,6,ARO,Broadway Apts.,3120-22 N. Broadway,60657,773-276-4266,The Inverbrass Funds LLC,2,41.93829399,-87.64448816,False
+Austin,25,Multifamily,Rebecca Walker Complex,126 S. Central Ave.,60644,773-261-1550,Affordable Property Management Specialist,40,41.87849467,-87.76494803,False
+Lower West Side,31,Senior,Casa Maravilla,2021 S. Morgan St.,60608,312-666-1323,The Resurrection Project,5,41.85461476,-87.65132209,False
+Near West Side,28,ARO,1050 Van Buren,1050 W. Van Buren St.,60607,312-327-1101,Sage West Loop,16,41.8766808,-87.65392634,False
+Logan Square,22,ARO,2400 Cortland,2404-14 W. Cortland St.,60647,312-489-1600,Laramar Group,2,41.91586948,-87.68763427,False
+Near West Side,28,ARO,1125 Van Buren LLC,1125 W. Van Buren St.,66007,312-262-6406,Tandem Property Management,5,41.87643774,-87.65544899,False
+Douglas,35,Multifamily,Park Boulevard IIA,3604 S. State St.,60609,773-548-8792,"Urban Property Advisors, LLC",6,41.82901759,-87.62666295,False
+Logan Square,22,Multifamily,Tierra Linda Apts.,1802 N. Sawyer Ave.,60647,773-276-5338,LUCHA,3,41.91385334,-87.70870236,False
+Humboldt Park,23,Multifamily,Madres Unidas (scattered sites),3541 W. North Ave.,60647,773-276-5338,LUCHA,80,41.90989234,-87.71605298,False
+South Shore,43,Senior,Rainbow's End,7538 S. Kingston Ave.,60649,773-768-5402,"Urban Property Advisors, LLC",84,41.75787127,-87.56285983,False
+Washington Park,40,People with Disabilities,"Brand New Beginnings, Inc.",5801 S. Michigan Ave.,60637,773-955-5780,Harriet Tubman NFP,25,41.78915201,-87.62217908,False
+Austin,25,Senior,Senior Suites of Austin,335 N. Menard Ave.,60644,773-378-0333,Senior Lifestyle Corp.,84,41.88673275,-87.76983958,False
+Logan Square,22,ARO,MiCA,2733 W. Belden Ave.,60647,312-702-2519,2293NMA LLC,22,41.92282434,-87.69674313,False
+Riverdale,54,Senior,Concordia Apts.,13037 S. Daniel Dr.,60627,773-995-5200,"DRE, Inc.",75,41.65793125,-87.6159174,False
+Near North Side,8,Multfamily,Parkside of Old Town IIB,1151 N. Cleveland Ave.,60622,312-944-8500,Holsten Real Estate Dev. Corp.,12,41.90298972,-87.64104289,False
+Loop,32,ARO,Imprint Lofts,739 S. Clark St.,60605,312-847-7179,Greystar,7,41.8868758,-87.62468519,False
+North Lawndale,29,Supportive/Youth/Kinship Families,Sankofa House,4041 W. Roosevelt Road,60624,773-257-8800,Interfaith Housing Corp.,32,41.86604003,-87.72672414,False
+Near West Side,28,ARO,Milieu Apts.,205 S. Peoria St.,60607,312-983-7152,White Oak Realty Partners,7,41.8789981,-87.64946622,False
+West Pullman,53,Senior,All Saints Senior Residence,11701 S. State St.,60628,312-655-7440,Catholic Charities Housing Devp.,42,41.6815901,-87.62262763,False
+Uptown,3,Multifamily,850 Eastwood,850 W. Eastwood Ave.,60640,773-275-6877,Mercy Housing,69,41.96652845,-87.65171856,False
+West Town,24,ARO,Homer Townhomes,1623 N. Talman Ave.,60647,773-975-7234,Kass Management,5,41.91097205,-87.69319452,False
+Grand Boulevard,38,Multifamily,Hearts United I-The Langston (scattered sites),722-46 E. Bowen Ave.,60653,773-924-2100,Bonheur Realty Services Corp.,116,41.81957647,-87.60848349,False
+Near North Side,8,ARO,The Leo,741 N Wells,60654,872-873-0741,Cagan Management Group,4,41.89599326,-87.63403819,False
+North Lawndale,29,Multifamily,Dicksons Estates Apts.,1129 S. Sacramento Ave.,60612,773-638-0386,Dickson Estates Apartments,42,41.86736961,-87.70066623,False
+Portage Park,15,ARO,Six Corners Lofts,4714 W Irving Park,60641,312-585-8512,RL Accelerated,6,41.95354896,-87.74614081,False
+Uptown,3,Multifamily,Magnolia Court Apts.,4878 N. Magnolia Ave.,60640,773-878-2186,"Park, Inc.",60,41.97121983,-87.66124806,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3118 W. Franklin Blvd.,60624,773-227-6332,Bickerdike Apts.,6,41.89019948,-87.70473978,False
+West Town,24,ARO,1237 N. Milwaukee Ave.Owner LLC,1241 N. Milwaukee Ave.,60622,312-883-7331,CIM Group,6,41.904342,-87.66779176,False
+Grand Boulevard,38,Multifamily,Cornerstone Apts.,611 E. 50th St.,60615,312-577-5555,The Community Builders Inc.,8,41.80389906,-87.6108319,False
+Oakland,36,Multifamily,"Oakwood Shrs 1A, 1B, 2A, 2B1 (scattered sites)",3859 S. Vincennes Ave.,60653,773-373-1300,The Community Builders Inc.,534,41.8239192,-87.61246844,False
+Lower West Side,31,Multifamily,Casa San Luis,1646-50 S. Throop St.,60608,312-666-1323,The Resurrection Project,12,41.8583373,-87.65903377,False
+Woodlawn,42,Multifamily,The Grant at Woodlawn Pk Phase II,6129 S. Cottage Grove Ave.,60637,312-283-0030,Preservation Housing Management LLC,33,41.78317579,-87.60584352,False
+Hyde Park,41,Multifamily,Hyde Park Apts.,5330 S. Harper Ave.,60615,773-955-2610,"DRE, Inc.",36,41.79857178,-87.58921454,False
+Washington Park,40,Senior HUD 202,St. Edmund's Corners,5556 S. Michigan Ave.,60637,773-667-7583,St. Edmund's Redevelopment Corp.,53,41.79297452,-87.62256852,False
+Hyde Park,41,ARO,5228 S Blackstone,1424-28 E. 53rd St.,60615,773-221-6998,5228 S Blacstone LLC,2,41.7996338,-87.59068096,False
+West Englewood,67,Senior,Wheeler House,1450 W. 69th St.,60636,773-494-2444,S W Management,89,41.76870231,-87.66109812,False
+Near North Side,8,ARO,868northwells,868 N. Wells St.,60610,312-896-4868,Willow Bridge,32,41.8985899,-87.63442369,False
+Grand Boulevard,38,Multifamily,Hearts United III-The Leontyne (scattered sites),4340-2 S. Champlain St.,60653,773-924-2100,Bonheur Realty Services Corp.,53,41.81660195,-87.61055648,False
+North Lawndale,29,Multifamily,Park Douglas,1224 S. Washtenaw Ave.,60608,773-893-4800,Interstate Realty Management Co.,31,41.86568173,-87.69353304,False
+Logan Square,22,ARO,The Western,1920 N. Milwaukee Ave.,60647,312-883-7331,Golub Realty Services,1,41.91629912,-87.68682686,False
+New City,61,Senior,West Haven Homes,850 W. Garfield Blvd.,60609,773-536-3057,"Universal Management Service, Inc.",110,41.7943937,-87.64724467,False
+Belmont Cragin,19,Senior,Cicero & George Elderly Apts.,4800 W. George St.,60641,312-291-5420,Hispanic Housing Dev. Corp.,70,41.93346293,-87.74679225,False
+North Lawndale,29,Multifamily,Park Douglas,1313-15 S. Fairfiled Ave.,60608,773-893-4800,Interstate Realty Management Co.,4,41.86422845,-87.69442766,False
+Humboldt Park,23,Senior,North & Pulaski Senior Housing,3939-59 W. North Ave.,60647,773-687-0234,Hispanic Housing Dev. Corp.,72,41.90978701,-87.72558192,False
+Chicago Lawn,66,Senior,Churchview Supportive Assisted Living,2626 W. 63rd St.,60629,773-471-4444,Greater Southwest Dev. Corp.,86,41.77928099,-87.68967949,False
+Logan Square,22,Multifamily,Tierra Linda Apts.,1808-10 N. Kedzie Ave.,60647,773-276-5338,LUCHA,3,41.91404749,-87.70701324,False
+Near North Side,8,Multifamily,North Town Village I & II,1311 N. Halsted St.,60642,312-944-9488,Holsten Real Estate Dev. Corp.,112,41.90543825,-87.64798274,False
+Logan Square,22,Multifamily,Lorington Apts.,3126 W.Palmer Blvd.,60647,773-235-1004,Realty & Mortgage Co.,54,41.92157284,-87.70649546,False
+Lincoln Square,4,ARO,Ravenswood Terrace,1801-15 W. Argyle St.,60640,833-362-0337,TLC Management Co. (chicagorentals.com),15,41.97235677,-87.67492225,False
+Humboldt Park,23,ARO,3639wiowast,3639 W Iowa St.,60651,360-999-2480,Nikola Kosoric,4,41.89716026,-87.71783591,False
+Douglas,35,Multifamily,Park Boulevard IIB,10 W. 37th St.,60609,773-548-8792,"Urban Property Advisors, LLC",12,41.82744587,-87.62694964,False
+Rogers Park,1,Multifamily,Clark Estes Apts.,1763 W. Estes Ave.,60626,773-293-7443,"Ross Financial Services, Inc.",54,42.01129755,-87.6747434,False
+Lake View,6,ARO,Panorama,3300 N. Clark St.,60657,773-269-6405,33 Management LLC,5,41.94174729,-87.65229869,False
+Lower West Side,31,Multifamily,Casa Monterrey,967 W. 19th St.,60608,312-666-1323,The Resurrection Project,4,41.85656724,-87.65074652,False
+Douglas,35,Multifamily,Park Boulevard IB,3506 S. State St.,60609,773-548-8792,"Urban Property Advisors, LLC",54,41.83078218,-87.62679018,False
+Lower West Side,31,Multifamily,Casa Tabasco,2014 S. Racine Ave.,60608,312-850-1935,The Resurrection Project,45,41.85469028,-87.65647821,False
+South Chicago,46,Senior Supportive Living,Victory Center of South Chicago,3251 E. 92nd St.,60617,773-449-2600,Pathway Senior Living,112,41.72821355,-87.54469279,False
+Uptown,3,Multifamily,Hazel Winthrop Apts.,852-54 W. Sunnyside Ave./4509 N. Hazel St.,60640,773-334-5003,Preservation Housing Management LLC,12,41.96375203,-87.65202468,False
+Near South Side,33,Senior,Hilliard Homes Phase I,30 W. Cermak Road,60616,312-326-1455,Holsten Real Estate Dev. Corp.,151,41.85301339,-87.62823221,False
+East Garfield Park,27,Multifamily,Homan Square Apartments Phase V,3607 W. Polk St.,60624,773-722-7320,Realty & Mortgage Co.,42,41.87072555,-87.71590797,False
+Logan Square,22,Multifamily,Lucy Gonzalez Parsons Apts.,2614 N. Emmett St.,60647,773-227-6332,Bickerdike Apts.,100,41.93043982,-87.70794751,False
+West Town,24,ARO,1447 N. Superior Holding,1447 W. Superior St.,60642,312.600.4501,Honore Properties,2,41.89509487,-87.6641672,False
+Near West Side,28,ARO,One Six Six,166 N. Aberdeen St.,60607,773-673-7724,One Six Six Chicago,22,41.88502582,-87.65460592,False
+Douglas,35,Senior,Pioneer Gardens Supportive Living,3800 S. King Dr.,60653,773-420-4100,Pioneer Gardens Senior Housing,120,41.825556,-87.61717842,False
+Oakland,36,Multifamily,Lakefront Phase II,1113 E. Bowen Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",6,41.81857981,-87.59938372,False
+Woodlawn,42,Senior,The Burnham at Woodlawn Park,6134 S. Cottage Grove Ave.,60637,773-955-8668,Preservation Housing Management LLC,65,41.78300119,-87.60613195,False
+Rogers Park,1,Inter-generational,Nathalie Salmon House,7320 N. Sheridan Road,60626,773-921-3200,H.O.M.E.,54,42.01438027,-87.66448269,False
+Washington Park,40,Multifamily,Michigan Plaza (St. Edmund's Plaza),5701 S. Michigan Ave.,60653,773-548-8924,Michigan Plaza LP,230,41.79098039,-87.62222411,False
+Humboldt Park,23,Senior,LUCHA Affordable Units,3541 W. North Ave.,60647,312-276-5338,LUCHA,69,41.90989234,-87.71605298,False
+West Ridge,2,Senior,Northtown Apts.,6800 N. Western Ave.,60645,773-765-3090,Evergreen Real Estate Services LLC,14,42.00507612,-87.69021903,False
+Near West Side,28,ARO,The Mason,180 N. Ada St.,60607,312-809-0240,Marquette Management Inc.,26,41.88527083,-87.66091,False
+Washington Park,40,Multifamily,St. Edmund's Oasis,6143-51 S. Indiana Ave.,60637,773-493-2411,St. Edmund's Redevelopment Corp.,14,41.78254707,-87.62038523,False
+South Shore,43,Multifamily,Highlands Tudor Manor,7018 S. Cregier Ave.,60649,773-667-1940,Related Management Co. LP,18,41.76738208,-87.58140538,False
+West Town,24,ARO,Trailhead Apartments,1744 N Western Ave,60647,872-315-3385,Cagan Management Group,16,41.91343104,-87.68744994,False
+Near North Side,8,Multifamily,Clybourn 1200,1200 N. Clybourn Ave.,60622,312-477-7442,Interstate Realty Management Co.,52,41.90378958,-87.63982077,False
+Washington Park,40,Multifamily,Prairie Park Apts.,5610 S. Calumet Ave.,60637,773-268-1960,"Leasing and Management Co., Inc.",56,41.79259828,-87.61768665,False
+Lake View,6,ARO,Optima Lakeview,3460 N. Broadway,60657,773-828-1700,Optima Real Estate,11,41.94482827,-87.64589349,False
+Uptown,3,ARO,The Draper,5050 N. Broadway,60640,871-259-7157,The FLATS,35,41.97412953,-87.6599553,False
+Uptown,3,Multifamily,Leland Apts.,1207 W. Leland Ave.,60640,312-660-1374,Heartland Houisng Inc.,137,41.9670835,-87.65997164,False
+Humboldt Park,23,Multifamily,Harold Washington Unity Coop,619-27 N. Kedzie Ave.,60612,773-227-6332,Bickerdike Apts.,15,41.89250077,-87.70631776,False
+Near South Side,33,ARO,Aspire,2111 S Wabash,60616,312-270-1160,Fernwood Property Management,10,41.85389182,-87.62537446,False
+Lake View,6,ARO,621 W Belmont LLC,621 W. Belmont St.,60657,312-725-2276,Kass Management,2,41.93991631,-87.64524776,False
+Belmont Cragin,19,Senior,Diversey Manor,5525 W. Diversey Ave.,60639,312-456-1840,"Resident Management Services, Inc.",98,41.93118709,-87.76479651,False
+New City,61,Senior,New City Supportive Living,4707 S. Marshfield Ave.,60609,773-376-1223,BMA Management Ltd.,101,41.80836402,-87.66603343,False
+Near West Side,28,ARO,The Dylan,160 N. Morgan St.,60607,872.328.0028,Sterling Bay,28,41.88489541,-87.65226488,False
+South Shore,43,Artists & Families,Dorchester Art + Housing Collaborative,1450 E. 70th St.,60637,773-324-2270,Leasing & Management Co. Inc.,32,41.76795883,-87.58910953,False
+Garfield Ridge,56,Senior,Cicero Senior Lofts,4835 S. Cicero Ave.,60638,773-424-6986,MVAH Partners,56,41.80474599,-87.74293848,False
+Near North Side,8,ARO,Axis Apartments and Lofts,441 E Erie,60611,773-649-0149,Group Fox,3,41.89416116,-87.61620201,False
+Logan Square,22,Multifamily,Zapata Apts.,3230 W. Armitage Ave,60647,773-227-6332,Bickerdike Apartments,100,41.91749465,-87.70826581,False
+Chatham,44,Senior,Senior Suites of Chatham,8300 S. Cottage Grove Ave.,60619,773-488-1333,Senior Lifestyle Corp.,90,41.74387382,-87.60517616,False
+West Englewood,67,Multifamily,Clara's Village,2115 W. 63rd St,60636,773-434-4929,Interfaith Housing Corp.,52,41.77916282,-87.6770312,False
+North Lawndale,29,Multifamily,Resurrection Homes,1910 S. Albany Ave.,60623,312-248-8355,The Resurrection Project,2,41.8551334,-87.7030674,False
+Washington Park,40,Multifamily,Harriett Tubman Apts.,5751-59 S. Michigan Ave.,60637,773-752-9760,Brand New Beginnings Inc.,65,41.78956141,-87.62218963,False
+West Town,24,Multifamily,Borinquen Bella Apts.,"1318,1456 N. Rockwell Ave.",60622,773-276-5338,LUCHA,24,41.905458,-87.69216188,False
+Austin,25,Supportive Housing,Menard Apartments,334 N. Menard Ave.,60644,773-572-5272,The Thresholds,57,41.88672742,-87.77013329,False
+Logan Square,22,Multifamily,Rev. Daniel Alvarez Apts.,2451-57 N. Sacramento Ave.,60612,773-772-4063,Hispanic Housing Dev. Corp.,96,41.92627863,-87.70220924,False
+Lower West Side,31,Multifamily,Casa Guerrero,963 W Cullerton St.,60608,312-666-1323,The Resurrection Project,52,41.8551748,-87.65062753,False
+Logan Square,22,Multifamily,Zapata Apts.,3734 W. Cortland St.,60647,773-227-6332,Bickerdike Apartments,30,41.91552353,-87.72061073,False
+Grand Boulevard,38,Multifamily,Shops & Lofts at 47,747 E. 47th St.,60653,855-618-4959,The Community Builders Inc.,72,41.80941355,-87.60708556,False
+North Lawndale,29,Senior,Tabernacle Apts.,3836 W. Cermak Road,60623,773-762-3389,Lawndale Christian Residential Svcs.,126,41.85170274,-87.72132688,False
+Near South Side,33,ARO,Aspire Residences,2111 S. Wabash Ave.,60616,312-346-8600,"Draper and Kramer, Inc.",10,41.85389182,-87.62537446,False
+Oakland,36,Multifamily,Lakefront Phase II,1060 E. 41st St.,60653,773-548-8795,"Urban Property Advisors, LLC",81,41.82035789,-87.60043601,False
+Grand Boulevard,38,Multifamily,Paul G. Stewart Phase V,400 E. 41st St.,60653,773-924-2100,Paul G. Stewart Assoc.,20,41.8203495,-87.61651411,False
+West Garfield Park,26,Senior,Fannie Emanuel Apts.,3916 W. Washington Blvd.,60624,312-913-5812,Habitat Company,181,41.88196929,-87.72399261,False
+North Lawndale,29,Multifamily,Park Douglas,1255 S. Fairfield Ave.,60608,773-893-4800,Interstate Realty Management Co.,5,41.86489079,-87.69444711,False
+Avondale,21,Supportive Housing,Milwaukee Ave. Apts.,3060 N. Milwaukee Ave.,60618,312-967-7300,Full Circle Management,32,41.93666739,-87.72009772,False
+Lincoln Square,4,ARO,4646 Damen Apts.,4646 N. Damen Ave.,60625,773-883-1200,Northside Properties Inc.,2,41.96649306,-87.6792672,False
+Logan Square,22,Multifamily,Tierra Linda Apts.,1834-36 N. Sawyer Ave.,60647,773-276-5338,LUCHA,6,41.91477551,-87.70873296,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3554 W. Ohio St.,60624,773-227-6332,Bickerdike Apts.,6,41.89190751,-87.71596466,False
+Irving Park,16,Senior,Senior Residence at Kedzie,4054 N. Kedzie Ave.,60618,773-381-7400,G&A Management,51,41.95553133,-87.70820786,False
+Logan Square,22,ARO,Fullerton Properties LLC,2535 W. Fullerton Ave.,60647,773-404-9904,TMG Management,2,41.92475626,-87.69124357,False
+Roseland,49,Senior,Victory Center of Roseland,10450 S. Michigan Ave.,60628,773-468-6400,Pathway Senior Living,81,41.70389075,-87.62077116,False
+Grand Boulevard,38,Multifamily,Rosenwald Courts Apts.,4642 S. Michigan Ave.,60653,773-819-2267,Mercy Housing,239,41.80982565,-87.62299938,False
+Woodlawn,42,Multifamily,Woodlawn-Michigan Development,6446 S. Kenwood Ave.,60637,312-226-2200,Wolcott Real Property LLC,33,41.77748903,-87.59314971,False
+West Town,24,Multifamily,North & Talman Phase III,2656 W. North Ave.,60647,773-602-2888,Hispanic Housing Dev. Corp.,18,41.91035372,-87.69440401,False
+North Lawndale,29,Supportive Housing,Independence Apts.,927 S. Independence Blvd.,60624,773-549-8300,Realty & Mortgage Co.,58,41.86921476,-87.71947509,False
+Lake View,6,ARO,The Mode,3462 N. Lincoln Ave.,60657,773-205-8300,606 Realty,2,41.94490833,-87.67247934,False
+West Town,24,ARO,Nevele 22 Apts.,1122 W. Chicago Ave.,60642,773-227-1202,Lipe Property Co.,19,41.89636176,-87.65616995,False
+Near West Side,28,ARO,Union West,939 W. Washington Blvd.,60607,312-626-0473,ZRS Management,9,41.88296896,-87.65121973,False
+Humboldt Park,23,Senior,Senior Suites of West Humboldt Park,3656 W. Huron St.,60624,773-638-0333,Senior Lifestyle Corp.,88,41.89371191,-87.71855494,False
+Uptown,3,ARO,4533 N Clark St.,4533 N. Clark St.,60640,312-600-4501,Honore Properties,2,41.96446223,-87.66641734,False
+Hunboldt Paek,23,Multifamily,Los Vecinos,4250 W. North Ave.,60639,312-660-1374,Heartland Housing Inc.,62,41.90990327,-87.73330423,False
+Woodlawn,42,Multifamily,The Grant at Woodlawn Pk Phase I,6227-29 S. Cottage Grove Ave.,60637,312-283-0030,Preservation Housing Management LLC,67,41.781408,-87.60580712,False
+Washington Park,40,Multifamily,St. Edmund's Meadows,6100 S. Michigan Ave.,60637,773-493-2411,St. Edmund's Redevelopment Corp.,56,41.78369838,-87.62232714,False
+Humboldt Park,23,Multifamily,La Estancia,3220 W. Division St.,60651,773-227-6332,Bickerdike Apts.,18,41.90293349,-87.70762292,False
+Near North Side,8,Supportive Housing,The Midwest/Carroll Park Apts.,1333 N. Kingsbury St.,60622,312-337-5339,Holsten Real Estate Dev. Corp.,40,41.905731,-87.64964597,False
+Austin,25,Multifamily,Rebecca Walker Complex,223-9 S. Central Ave.,60644,773-261-1550,Affordable Property Management Specialist,12,41.87759814,-87.76461864,False
+Washington Park,40,Multifamily,St. Edmund's Oasis,215 E. 61st St.,60637,773-493-2411,St. Edmund's Redevelopment Corp.,5,41.78370163,-87.61994272,False
+Uptown,3,ARO,Harmony Apartments,4513 N. Clark St.,60640,224-585-4516,Peak Properties,6,41.96389731,-87.66629556,False
+Logan Square,22,Multifamily,Tierra Linda Apts.,1929 N. Drake Ave.,60647,773-276-5338,LUCHA,3,41.91632842,-87.71497751,False
+Montclare,18,ARO,2815-19 N. Natoma,2815-19 N. Natoma Ave.,60634,872-256-8321,The Brixen,2,41.93139277,-87.7916678,False
+Hyde Park,41,ARO,City Hyde Park,5105 S. Harper Ave.,60615,773-548-5077,Mac Properties,36,41.80226057,-87.58900435,False
+Near North Side,8,ARO,The 808,808 N. Cleveland Ave.,60610,312-778-5765,Common Living Inc.,20,41.89680276,-87.64109007,False
+Grand Boulevard,38,Multifamily,Legends South - Gwendolyn Place,4333 S. Michigan Ave.,60653,773-624-7676,Interstate Realty Management Co.,71,41.8155504,-87.62285652,False
+Uptown,3,Supportive Housing,Harold Washington Apts.,4946 N. Sheridan Road,60640,312-447-4621,Mercy Housing,100,41.97294612,-87.65506712,False
+Near West Side,28,ARO,The Jax,1220 W. Jackson Blvd.,60607,847-324-8957,Cagan Management Group,33,41.87788633,-87.65789958,False
+West Pullman,53,Senior,West Pullman School Senior Housing,11941 S. Parnell Ave.,60628,773-952-8004,5T Management,60,41.67666008,-87.63570683,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3145 W. Franklin Blvd.,60624,773-227-6332,Bickerdike Apts.,6,41.88996815,-87.7057294,False
+Logan Square,22,Multifamily,Tierra Linda Apts.,1822 N. Sawyer Ave.,60647,773-276-5338,LUCHA,3,41.91442987,-87.70872156,False
+West Town,24,ARO,1611 West Division,1611 W. Division St.,60622,773-661-5500,M. Fishman & Co.,10,41.9032305,-87.66797825,False
+North Lawndale,29,Multifamily,Park Douglas,1254-56 S. Fairfiled Ave.,60608,773-893-4800,Interstate Realty Management Co.,7,41.86488549,-87.69474071,False
+West Town,24,ARO,Nevele 22 Apts.,1122 W. Chicago Ave.,60642,773-227-1202,Nevelle 22,19,41.89636176,-87.65616995,False
+Hunboldt Paek,23,Multifamily,Nuestro Hogar,3653-57 W. Wabansia Ave.,60647,773-227-6332,Bickerdike Apts.,16,41.91168319,-87.71874923,False
+Near West Side,28,Multifamily,St. Andrew's Court,50 N. Hoyne Ave.,60612,312-226-7620,St. Andrew's Court LP,15,41.8828067,-87.67926811,False
+Englewood,68,Senior,Yale Building,6565 S. Yale Ave.,60621,773-224-7669,Yale Building LLP,140,41.77466762,-87.6315302,False
+East Garfield Park,27,ARO,2824 Van Buren,2824 W. Van Buren St.,60612,708-997-0164,Sergio & Banks Real Estate,6,41.87607811,-87.69715773,False
+Montclare,18,ARO,Harlem & Wrightwood,2601-19 N. Harlem Ave.,60707,312-671-0777,NOAH Properties,2,41.92716483,-87.80621904,False
+Logan Square,22,ARO,1955 Richmond Place,1955 N. Richmond St.,60647,847-542-0442,@properties,3,41.91725621,-87.70031066,False
+Uptown,3,Multifamily,Hazel Winthrop Apts.,4813 N. Winthrop Ave.,60640,773-334-5003,Preservation Housing Management LLC,6,41.96950669,-87.65748184,False
+Washington Park,40,Multifamily,St. Edmund's Oasis,300-10 E. 61st St.,60637,773-493-2411,St. Edmund's Redevelopment Corp.,12,41.78393828,-87.61886624,False
+Lower West Side,31,Multifamily,Casa Morelos,2015 S. Morgan St.,60608,312-666-1323,The Resurrection Project,4,41.85480194,-87.65132697,False
+Humboldt Park,23,Multifamily,Harold Washington Unity Coop,718-20 N. Troy St.,60612,773-227-6332,Bickerdike Apts.,4,41.89433675,-87.70543577,False
+Englewood,68,Supportive Housing,Englewood Apts.,901 W. 63rd Street,60621,773-994-3199,Mercy Housing,45,41.77959999,-87.64726896,False
+Washington Heights,73,Supportive Housing,Brainerd Park Apts.,8920 S. Loomis St.,60620,312-535-3157,Full Circle Management,4,41.73148212,-87.65822063,False
+Austin,25,Supportive/Teenage Moms,Home for New Moms,5327 W. Chicago Ave.,60651,773-610-7696,"New Moms, Inc.",40,41.89479143,-87.75927048,False
+Grand Boulevard,38,Multifamily,4400 Grove Apts.,4400 S. Cottage Grove Ave.,60653,312-248-6012,Michaels Development Co.,38,41.81490392,-87.60682726,False
+Rogers Park,1,ARO,1730 W. Greenleaf,1730 W. Greenleaf Ave.,60626,773-605-0103,DLG Management,3,42.01031978,-87.67363702,False
+Chicago Lawn,66,Senior,Lawn Terrace Apts.,3214 W. 63rd Pl,60629,773-925-2815,Greater Southwest Dev. Corp.,102,41.77814486,-87.70387541,False
+Woodlawn,42,Multifamily,WECAN,6450 S. Stony Island Ave.,60637,773-288-3000,WECAN,117,41.77728699,-87.58649335,False
+Lake View,6,ARO,The Aurea,3821 N. Ashland Ave.,60613,773-326-6427,Base 3 Management,5,41.95129974,-87.66882824,False
+East Garfield Park,27,Multifamily,Ike Sims Village,3333 W. Maypole Ave.,60624,773-638-1818,Village Green Management Co.,200,41.88346519,-87.71003991,False
+Dunning,17,Senior,Autumn Green at Wright Campus,4239 N. Oak Park Ave.,60634,773-202-3388,Senior Lifestyle Corp.,129,41.95769221,-87.79754403,False
+West Town,24,Senior,North & Talman Elderly Apts.,1600 N. Talman Ave.,60647,773-486-7410,Hispanic Housing Dev. Corp.,24,41.91034383,-87.69347132,False
+North Lawndale,29,Multifamily,Dr. King Apts.,1550 S. Hamlin Ave.,60623,773-776-7233,Lawndale Christian Residential Svcs.,45,41.85923592,-87.7202403,False
+Lincoln Park,7,Senior,Lathrop Elderly Apts.,2717 N. Leavitt St.,60647,773-296-2095,Hispanic Housing Dev. Corp.,92,41.9309215,-87.68022005,False
+East Garfield Park,27,Senior,Heritage Woods of Chicago,2800 W. Fulton St.,60612,773-722-2900,BMA Management Ltd.,113,41.88664623,-87.69655814,False
+West Town,24,ARO,1645 W. LeMoyne,1645 W. LeMoyne St.,60622,773-456-5288,1645 W LeMoyne,2,41.90897948,-87.66949405,False
+Douglas,35,Senior,Pioneer Village Apts.,340 E. 38th St.,60653,773-536-0463,Pioneer Affordable Housing Preservation,152,41.82575322,-87.61751743,False
+Near North Side,8,ARO,Than Tower,343 W. Schiller St.,60610,312-379-9216,Lakshmi Capital Management,21,41.9074932,-87.63835294,False
+Uptown,3,ARO,The Sally,1135 W. Winona St.,60640,312-216-0015,The FLATS,8,41.97510735,-87.65924996,False
+Oakland,36,Multifamily,Oakwood Shores Senior Apts.,3750 S. Cottage Grove Ave.,60653,773-373-1300,The Community Builders,76,41.82637057,-87.60828676,False
+Grand Boulevard,38,Multifamily,Legends South - Savoy Square,4448 S. State St.,60609,773-855-2209,Interstate Realty Management Co.,220,41.81319493,-87.6263368,False
+East Garfield Park,27,Multifamily,Homan Square Apartments Phase I,750 S. Homan Ave.,60624,773-722-7320,Realty & Mortgage Co.,50,41.87119717,-87.71084842,False
+Hunboldt Paek,23,Multifamily,Harold Washington Unity Coop,3100-36 W. Huron St.,60612,773-227-6332.,Bickerdike Apts.,43,41.89385878,-87.7041025,False
+Ashburn,70,Senior,Wrightwood Senior Apts.,2815 W. 79th St.,60652,773-471-7777,Ludwig and Company,85,41.74972646,-87.69327334,False
+East Garfield Park,27,Multifamily,Harrison Court Apts.,2910 W. Harrison St.,60612,773-722-3231,East Lake Management & Development Corp.,123,41.87387727,-87.69906108,False
+Armour Square,34,Multifamily,Archer Courts Apts.,2242 S. Princeton Ave.,60616,312-791-0458,"Prairie Management & Development, Inc.",147,41.85157794,-87.63492034,False
+Washington Park,40,Supportive/Kinship Families,Coppin House,325-43 E. 55th Place,60637,773-752-2331,Interfaith Housing Corp.,28,41.79376972,-87.61813849,False
+Englewood,68,Supportive Housing,Branch of Hope Apts.,5628-30 S. Halsted St.,60621,773-488-7205,Evergreen Real Estate LLC,99,41.79162782,-87.64523321,False
+Humboldt Park,23,Multifamily,Spaulding Apartments,1750 N. Spaulding Ave.,60647,773-381-7400,G&A Management,111,41.91332565,-87.71031714,False
+West Pullman,53,Senior,Kennedy Jordan Manor,825 W. 118th St.,60643,773-568-2929,Source Works Management,70,41.67950676,-87.6430113,False
+North Lawndale,29,Multifamily,Park Douglas,1256-60 S. Washtenaw Ave.,60608,773-893-4800,Interstate Realty Management Co.,1,41.86484279,-87.69350892,False
+South Deering,51,Senior,Porta Coeli Residence,2260 E. 99th St.,60617,773-374-2470,Catholic Charities,86,41.71539824,-87.56871495,False
+Near West Side,28,ARO,Flora,1114 W. Carroll Ave.,60607,312-465-6946,Greystar,74,41.88783198,-87.65520686,False
+West Ridge,2,Senior,G & A Senior Residences at Ravenswood,1818 W. Peterson Ave.,60660,773-381-7400,Eastgate Village Senior Corp.,89,41.99084916,-87.67599309,False
+Grand Boulevard,38,Multifamily,Legends South - Hansberry Square,4034 S. State St.,60609,773-548-8800,Interstate Realty Management Co.,181,41.82091083,-87.62652565,False
+Douglas,35,ARO,Lake Park LLC,243 E. 31st St.,60616,773-693-1041,D Properties,1,41.8382759,-87.62026922,False
+Grand Boulevard,38,Supportive Housing,Washington Park SRO,5000 S. Indiana Ave.,60615,773-924-1107,"East Lake Management Group, Inc.",96,41.80375452,-87.62121706,False
+Grand Boulevard,38,Multifamily,Indiana Manor Town Homes,4427-33 S. Indiana Ave.,60653,773-268-5326,Indiana Manor Townhomes,87,41.813971,-87.62119166,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,614 N. Spaulding Ave.,60624,773-227-6332,Bickerdike Apts.,6,41.89237005,-87.70904868,False
+Near West Side,28,ARO,Fulbrix Apts.,160 N. Elizabeth St.,60607,312-698-0160,Lincoln Property Co.,75,41.88476168,-87.65898834,False
+Woodlawn,42,Multifamily,Strand Hotel,6321 S. Cottage Grove Ave.,60637,312-274-9169,Holsten Real Estate Dev. Corp.,63,41.7797573,-87.60576963,False
+Near North Side,8,Supportive,Carling Hotel,1512 N. LaSalle St.,60610,312-421-1170,Interstate Realty Management Co.,80,41.90959014,-87.63324548,False
+Lower West Side,31,Multifamily,Casa Oaxaca,1714 W. 19th St.,60608,312-666-1323,The Resurrection Project,25,41.85603287,-87.66936057,False
+Logan Square,22,ARO,2501 Armitage,2501 W. Armitage Ave.,60647,312-255-1153,Tandem Property Management,8,41.91744385,-87.68988362,False
+Austin,25,Multifamily,Pine Central,557 N. Pine Ave.,60644,773-568-1020,NHS Redevelopment Corp.,78,41.8905194,-87.76324864,False
+Washington Park,40,Senior,TRC Senior Village I,346 E. 53rd St.,60615,773-924-9270,The Renaissance Collaborative,35,41.79854996,-87.61745669,False
+Lake View,6,ARO,Clarkview Apts.,3228 N. Clark St.,60657,"773-281-0701, ext. 1014",Glascott Realty,2,41.94064621,-87.65140951,False
+Logan Square,22,ARO,Logan Apts.,2480-2522 N. Milwaukee Ave.,60647,773-525-6570,Spaces Real Estate,22,41.92634863,-87.70319622,False
+Auburn Gresham,71,Supportive/Veterans,Veteran's New Beginnings,8132-44 S. Racine Ave.,60620,773-488-2317,"HSR Property Services, LLC",54,41.74586011,-87.65376017,False
+Near West Side,28,Multifamily,Near West Side Apts.,216 S. Hoyne Ave.,60612,312-738-2280,Baker-Simmons Apartments,84,41.87812559,-87.67915413,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,526 N. Troy St.,60624,773-227-6332,Bickerdike Apts.,6,41.89117274,-87.70533834,False
+Logan Square,22,Multifamily,La Paz Place,3600-08 W. Shakespeare Ave.,60647,773-227-6332,Bickerdike Apts.,44,41.92013798,-87.71697197,False
+Oakland,36,Multifamily,Lakefront Phase II,1106 E. 42nd Pl,60653,773-548-8795,"Urban Property Advisors, LLC",3,41.81813912,-87.59936268,False
+Near South Side,33,Senior,G&A Senior Residences at Eastgate Village,300 E. 26th Street,60616,773-381-7400,Eastgate Village Partners LP,127,41.8457959,-87.62040337,False
+North Lawndale,29,65+/Supportive,Montclare Sr. Residences SLF of Lawndale,4339-47 W. 18th Pl,60623,773-277-0288,Pacific Management Inc.,120,41.85577153,-87.7338879,False
+Douglas,35,Multifamily,Davis Apts.,3632 S. Indiana Ave.,60653,773-285-5955,Capital Realty Group,81,41.82865048,-87.62185747,False
+Belmont Cragin,19,Senior,Senior Suites of Kelvyn Park,2715 N. Cicero Ave.,60639,773-252-0333,Senior Lifestyle Corp.,85,41.93012657,-87.74638854,False
+North Lawndale,29,Multifamily,Park Douglas,1302-06 S. Washtenaw Ave.,60608,773-893-4800,Interstate Realty Management Co.,5,41.86452207,-87.69350059,False
+West Garfield Park,26,Senior,Midwest Apts.,6 N. Hamlin Blvd.,60624,773-265-0323,Holsten Management Corp.,276,41.88096762,-87.72090693,False
+Near West Side,28,Multifamily,Westhaven Park Phase IIC,1939 W. Lake St.,60612,312-455-0009,Interstate Realty Management Co.,42,41.8849038,-87.67585077,False
+Auburn Gresham,71,Senior,Senior Suites of Auburn-Gresham,1050 W. 79th St.,60620,773-723-0333,Senior Lifestyle Corp.,85,41.75064862,-87.65092232,False
+Rogers Park,1,Supportive Housing,Wayne Street Apts.,6808 N. Wayne Ave.,60626,773-572-5272,The Thresholds,297,42.00577097,-87.66511109,False
+Englewood,68,Multifamily,Antioch Homes II,301 W. Marquette Road,60621,773-994-4546,"Universal Management Service, Inc.",69,41.77256377,-87.63241932,False
+Englewood,68,Senior,Sangamon Terrace,6415 S. Sangamon St.,60621,312-234-9400,Evergreen Real Estate Services,34,41.77739333,-87.6482214,False
+South Shore,43,Senior,Senior Suites of South Shore,2355 E. 67th St.,60649,773-324-2333,Senior Lifestyle Corp.,55,41.77343579,-87.56778382,False
+Montclare,18,ARO,6602-22 W. Diversey,6602-22 W. Diversey Ave.,60707,872-256-8321,The Brixen,3,41.93104976,-87.79077219,False
+Uptown,3,Supportive,Carlton Terrace,4626 N. Magnolia Ave.,60640,773-649-4639,Mercy Housing Management Group,70,41.96252489,-87.66112652,False
+Grand Boulevard,38,Artist Live/Work Space,Bronzeville Artists Lofts,436 E. 47th St.,60653,773-324-1745,Revere Properties,16,41.80952057,-87.61482402,False
+West Elsdon,62,Multifamily,Park Place Family Apts.,3630 W. 51st St.,60632,773-767-7260,"Leasing and Management Co., Inc.",78,41.80078286,-87.71473662,False
+South Lawndale,30,Multifamily,Resurrection Homes,2243 S. Central Park Ave.,60623,312-248-8355,The Resurrection Project,2,41.85039133,-87.7148139,False
+North Lawndale,29,Multifamily,Park Douglas,1303-15 S. Fairfield Ave.,60608,773-893-4800,Interstate Realty Management Co.,31,41.86448798,-87.69443508,False
+West Town,24,ARO,1801westgrand,1801 W. Grand Ave.,60622,773-698-6648,Fulton Grace,3,41.89079171,-87.67214091,False
+Near North Side,8,ARO,North & Vine,633 W. North Ave.,60610,312-872-1011,Lincoln Property Co.,7,41.9108662,-87.64471925,False
+Lake View,6,ARO,3647 N. Southport,3647 N. Southport Ave.,60613,773-529-3700,Seminary Properties,1,41.94846119,-87.66390462,False
+Edgewater,77,Multifamily,Edge on Broadway,6149 N. Broadway,60660,773-525-6570,Spaces Real Estate,6,41.9937343,-87.66023494,False
+Humboldt Park,23,Multifamily,Nuestro Hogar,4101 W. Kamerling,60651,773-227-6332,Bickerdike Apts.,15,41.90522727,-87.72895873,False
+Logan Square,22,Multifamily,1879 N. Milwaukee,1879 N. Milwaukee Ave.,60647,773-697-5276,Peak Properties,2,41.91564372,-87.6853748,False
+Logan Square,22,ARO,1962-66 N. Milwaukee Ave. Apts.,1962-66 N. Milwaukee Ave.,60647,773-494-4395,Kiferbaum Devp. Group,4,41.91701126,-87.68794282,False
+West Ridge,2,Senior,West Ridge Senior Apts.,6142 N. California Ave.,60659,773-381-7400,West Ridge Senior Corp.,117,41.99344157,-87.69964542,False
+Lower West Side,31,Multifamily,Casa Queretaro,1614 S. Damen Ave.,60608,312-666-1323,The Resurrection Project,45,41.8586567,-87.67659689,False
+Near West Side,28,ARO,The Elizabeth,225 N Elizabeth St,60607,872-328-0028,Sterling Bay,70,41.88628024,-87.65873449,False
+Edgewater,77,ARO,Glenlake LLC,1544 W. Glenlake Ave.,60660,773-404-9904,TMG Management,3,41.99272198,-87.66943869,False
+Grand Boulevard,38,Multifamily,Hearts United II-The Quincy (scattered sites),701-27 E. 43rd St.,60653,773-924-2100,Bonheur Realty Services Corp.,81,41.81666609,-87.60905996,False
+Near South Side,33,SRO,South Loop Apts.,1521 S. Wabash Ave.,60605,312-239-3218,Mercy Housing Management Group,207,41.86132451,-87.62554226,False
+Near North Side,8,Senior,Evergreen Towers II,1343 N. Cleveland Ave.,60610,773-904-0170,UP Holdings,101,41.90694652,-87.64074187,False
+Portage Park,15,ARO,Jefferson Park Residences,4758 N. Laramie Ave.,60630,773-736-1900,Mega Realty Inc.,4,41.96773575,-87.75784248,False
+Near North Side,8,Multifamily,Parkside of Old Town IIB,459 W. Division St.,60622,312=944-8500,Holsten Real Estate Dev. Corp.,94,41.90364882,-87.64046322,False
+Washington Park,40,Artist/Family,KLEO Art Residences,5504 S. Michigan Ave.,60637,773-268-4660,"Leasing and Management Co., Inc.",49,41.79418988,-87.62260056,False
+Uptown,3,Multifamily,Sunnyside Kenmore Apts.,4130 N. Kenmore Ave.,60640,773-769-3116,"Metroplex, Inc.",13,41.95758244,-87.65636944,False
+West Town,24,ARO,713 Milwaukee,713 N. Milwaukee Ave.,60642,312-235-6708,CA Urban Living,1,41.89469634,-87.65279542,False
+Edgewater,77,Multifamily,Bell Shore Apts.,1062 W. Bryn Mawr Ave.,60660,773-334-5407,Holsten Management Corp.,105,41.9837729,-87.65770384,False
+Humboldt Park,23,Disabled/Homeless,West Humboldt Place,3543 W. Chicago Ave.,60651,773-826-1230,Childrens Place Association,13,41.89535898,-87.71557516,False
+Douglas,35,Multifamily,508 S. Pershing at Oakwood Shores,508 E. Pershing Road,60653,872-713-8100,The Community Builders,36,41.823982,-87.6141005,False
+Avondale,21,ARO,The Avondale Residences II,4181 W. Belmont Ave.,60641,773-328-8038,Daniel Management Group,1,41.93890932,-87.73278642,False
+Humboldt Park,23,Supportive Housing,Pierce House,3533 W. North Ave.,60647,773-276-4900,"La Casa Norte, Inc.",25,41.9098957,-87.71573523,False
+West Town,24,Multifamily,La Estancia,2753 W. Division St.,60622,773-227-6332,Bickerdike Redevelopment Corp.,59,41.90281875,-87.69652556,False
+Lower West Side,31,Multifamily,Resurrection Homes,2124 W. 19th St.,60608,312-666-1323,The Resurrection Project,5,41.85590751,-87.67943292,False
+Near North Side,8,ARO,847 N. Larabee,847 N. Larabee St.,60610,773-698-6648,Fulton Grace Realty,1,41.8978795,-87.64283814,False
+East Garfield Park,27,Multifamily,Liberty Square Apts.,705-23 S. Independence Ave.,60624,773-538-3800,Bonheur Realty Services Corp.,66,41.87244138,-87.71958599,False
+Near West Side,28,ARO,The Duncan,1515 W. Monroe St.,60607,872-259-7416,The FLATS,52,41.88008567,-87.66505442,False
+Humboldt Park,23,Supportive Housing,Sanctuary Place,642 N. Kedzie Ave.,60612,773-265-0983,Interfaith Housing Corp.,84,41.89317664,-87.70663122,False
+West Town,24,ARO,1447 N. Washtenaw,1447 N. Washtenaw Ave.,60622,847-757-7766,Scheck Investments LLC,3,41.90799111,-87.69434381,False
+Douglas,35,Multifamily,Pershing Court/Park Boulevard IA,3845 S. State St.,60609,773-548-8792,"Urban Property Advisors, LLC",80,41.82420114,-87.62627123,False
+Grand Boulevard,38,Multifamily,Cornerstone Apts.,633 E. 50th St.,60615,312-577-5555,The Community Builders Inc.,7,41.8039101,-87.61014176,False
+Near West Side,28,Multifamily,Westhaven Park Phase IIB,110 N. Wood St.,60612,312-491-1114,Interstate Realty Management Co.,176,41.88355426,-87.67195337,False
+Humboldt Park,23,Multifamily,Harold Washington Unity Coop,647-49 N. Troy St.,60612,773-227-6332,Bickerdike Apts.,5,41.89330812,-87.70511017,False
+North Lawndale,29,Multifamily,Park Douglas,1220 S. Talman Ave.,60608,773-893-4800,Interstate Realty Management Co.,10,41.86584389,-87.69231965,False
+Avondale,21,ARO,2823 W. Belmont Ave.,2823 W. Belmont Ave.,60618,773-772-8500,Wilmot Properties,5,41.93927815,-87.698802,False
+North Lawndale,29,Multifamily,Fountain View Apts.,3718 W. Douglas Blvd.,60623,773-762-3389,Lawndale Christian Residential Svcs.,32,41.86341092,-87.71929168,False
+West Lawn,65,Seniors,Senior Suites of Midway Village,6800 S. Keating Ave.,60629,888-339-2315,Senior Lifestyle Corp.,89,41.76947523,-87.74048606,False
+Lincoln Park,7,ARO,Southport Lofts,2065 N. Southport Ave.,60614,312-858-6212,RL Accelerated,1,41.91958133,-87.66299779,False
+Oakland,36,Multifamily,Lake Park Crescent,1061 E. 41st Place,60653,773-268-0200,Standard Communities,112,41.81978129,-87.59992527,False
+Austin,25,Senior HUD 202,Enola A. Dew Senior Apts.,4623 W. Gladys Ave.,60644,773-287-2972,"Prairie Management & Development, Inc.",60,41.87586178,-87.74131396,False
+North Center,5,Multifamily,Lathrop Phase I,2000 W. Diversey Ave.,60647,773-676-2222,Related Midwest,91,41.93239416,-87.67817303,False
+Gage Park,63,Senior,Senior Suites of Gage Park,3244 W. 59th St.,60629,773-434-4333,Senior Lifestyle Corp.,59,41.78632804,-87.70513618,False
+Logan Square,22,ARO,L Logan,2201-31 N. Milwaukee Ave.,60647,312-776-3242,Peak Properties,12,41.92090376,-87.6938545,False
+Lincoln Square,4,ARO,Lawrence,2150 W. Lawrence Ave.,60625,847-725-2218,Rent Great,6,41.96880038,-87.68363271,False
+Uptown,3,Senior,Ruth Shriman House,4040 N. Sheridan Road,60613,773-665-2210,Interfaith Housing Corp.,231,41.95568502,-87.65472513,False
+North Lawndale,29,Multifamily,Keeler Roosevelt Apts.,4200-10 W. Roosevelt Road,60624,773-522-9035,Safeway I.C. Management Inc.,26,41.86621064,-87.73012799,False
+Edgewater,77,Senior,Pomeroy Apts.,5650 N. Kenmore Ave.,60660,773-275-7820,Habitat Company,198,41.98518678,-87.65680868,False
+Near North Side,8,ARO,Xavier Chicago,625 W. Division St.,60622,312-642-2279,Greystar,24,41.90358744,-87.64433208,False
+Edgewater,77,ARO,Anderson Point,5700 N. Ashland Ave.,60660,773-327-4975,33 Management LLC,16,41.98515573,-87.67000926,False
+Oakland,36,Multifamily,Lakefront Phase II,1140 E. 42nd Pl,60653,773-548-8795,"Urban Property Advisors, LLC",6,41.81813504,-87.59809656,False
+Near West Side,28,ARO,2329 W Monroe,2329 W. Monroe St.,60612,773-831-4545,"City Experts, Inc.",8,41.87976209,-87.68503527,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3525 W. Ohio St.,60624,773-227-6332,Bickerdike Apts.,6,41.89169871,-87.71492195,False
+Woodlawn,42,Multifamily,65th Street Apts.,6600 S. Greenwood Ave.,60637,773-684-2056,"Urban Property Advisors, LLC",42,41.77493196,-87.59987091,False
+West Town,24,ARO,The Oasis of Bucktown,1700-14 N. Western Ave.,60647,773-235-4559,The Oasis of Bucktown LLC,9,41.91215211,-87.68741582,False
+Roseland,49,Supportive Housing,Holland Apartments,240 W. 107th Place,60628,773-568-3031,Mercy Housing,40,41.69899564,-87.62954345,False
+West Town,22,ARO,St. Paul Western Lofts,1741 N. Western Ave.,60647,773-327-4975,33 Realty,3,41.91332611,-87.68715329,False
+Oakland,36,Multifamily,Lakefront Phase II,1110 E. Bowen Ave.,60653,773-548-8795,"Urban Property Advisors, LLC",3,41.81874892,-87.59960335,False
+Logan Square,22,Multifamily,Tierra Linda Apts.,1812 N. Drake Ave.,60647,773-276-5338,LUCHA,3,41.91407463,-87.71520284,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,3341 W. Ohio St.,60624,773-227-6332,Bickerdike Apts.,16,41.89174085,-87.71055924,False
+West Town,24,ARO,945 Western,945 N. Western Ave.,60622,773-278-8078,Wicker Park Apartments Inc.,2,41.89889515,-87.68677643,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,607 N. Sawyer Ave.,60624,773-227-6332,Bickerdike Apts.,6,41.89215341,-87.70752657,False
+Lake View,6,ARO,913 School Apts.,913 W. School St.,60657,630.715.2285,Quad Realty Group,1,41.94165093,-87.65272231,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,532 N. Trumbull Ave.,60624,773-227-6332,Bickerdike Apts.,15,41.89123533,-87.71267502,False
+Edgewater,77,Senior,Hollywood House Apts.,5700 N. Sheridan Road,60660,773-728-2600,Heartland Housing,93,41.9856411,-87.65538854,False
+Rogers Park,1,Multifamily,The Concord at Sheridan,6438 N. Sheridan Road,60626,773-856-0451,The Habitat Co.,57,41.99875752,-87.66076276,False
+Grand Boulevard,38,Senior,Evans Langley,727 E. 50th Pl,60615,312-368-8610,"Metroplex, Inc.",60,41.80303973,-87.60775489,False
+Grand Boulevard,38,Multifamily,Bronzeville Family Apts.,400 E. 41st St.,60653,773-924-2100,Peoples Co-Op Management Service,60,41.8203495,-87.61651411,False
+Uptown,3,ARO,4801 N. Ravenswood Ave.,4801 N. Ravenswood Ave.,60640,773-929-7050,Hayes Properties Inc.,4,41.9689735,-87.67403032,False
+Near South Side,33,ARO,1400 S Wabash,1400 S. Wabash Ave.,60605,312-739-3005,Greystar,8,41.86398489,-87.62589624,False
+Englewood,68,People with Disabilities,Victoria Jennings Residences,624 W. 61st St.,60621,773-994-3690,"HSR Property Services, LLC",57,41.78355891,-87.6410929,False
+Uptown,3,ARO,The Winnie,4740 N. Winthrop Ave.,60640,872-204-1909,The FLATS,8,41.96844895,-87.6577681,False
+Near West Side,28,Supportive,Lake Street Studios,727 W. Lake St.,60661,312-274-8200,Interfaith Housing Corp.,61,41.8855647,-87.64685508,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,528 N. Troy St.,60624,773-227-6332,Bickerdike Apts.,3,41.89123228,-87.70534012,False
+West Town,24,Multifamily,Tierra Linda Apts.,1421 N. Artesian Ave.,60622,773-276-5338,LUCHA,3,41.90731543,-87.68822545,False
+Edison Park,9,ARO,Devon 7240 W,7240 W Devon Ave,60631,312-806-0150,Eagle National Management,1,41.99759826,-87.80825276,False
+Uptown,3,Senior,Kenmore Senior Housing,5040 N. Kenmore Ave.,60640,773-769-3006,The Habitat Co.,98,41.97449607,-87.65651102,False
+Douglas,35,Multifamily,Park Boulevard IIA,3612 S. State St.,60609,773-548-8792,"Urban Property Advisors, LLC",6,41.82873626,-87.62665512,False
+Loop,32,ARO,Millie on Michigan,300 N. Michigan Ave.,60601,312-878-0300,Magellan Property Management,7,41.8868758,-87.62468519,False
+Chicago Lawn,66,Senior,Churchview Manor Independent Living,2626 W. 63rd St.,60629,773-925-0730,Greater Southwest Dev. Corp.,60,41.77928099,-87.68967949,False
+Washington Park,40,Senior,St. Edmund's Tower Annex,6151 S. Michigan Ave.,60637,773-493-2411,St. Edmund's Redevelopment Corp.,34,41.782332,-87.62198764,False
+Greater Grand Crossing,69,Artist Housing,Dorchester Art + Housing Collaborative,1450 E. 70th St.,60619,773-324-2270,Leasing & Management Co. Inc.,32,41.76795883,-87.58910953,False
+Humboldt Park,23,Multifamily,Rosa Parks Apts.,3215 W. Huron St.,60624,773-227-6332,Bickerdike Apts.,6,41.89360833,-87.70720187,False
+Grand Boulevard,38,Multifamily,Cornerstone Apts.,731 E. 50th Pl,60615,312-577-5555,The Community Builders Inc.,24,41.80304222,-87.60758851,False
+West Town,22,People with Disabilities,Crystal Courts/Anixter Center,1122 N. California Ave.,60622,773-489-2417,Anixter Center,17,41.90177645,-87.69699748,False
+Uptown,3,Supportive Housing,Sarah's on Sheridan,1005 W. Leland Ave.,60640,312-913-7400,Sarah's Circle,38,41.96715149,-87.65503471,False
+Uptown,3,ARO,The Ainslie,4914 N. Clark St.,60640,312-600-4501,Honore Properties,5,41.97213736,-87.66801316,False
+Woodlawn,42,Multifamily,65th Street Apts.,848-58 E. 65th St.,60637,773-684-2056,"Urban Property Advisors, LLC",6,41.77690925,-87.60395378,False
+Garfield Ridge,56,Senior,Senior Suites of Garfield Ridge,5839 S. Harlem Ave.,60638,773-229-1533,Senior Lifestyle Corp.,87,41.78535412,-87.801098,False
+Greater Grand Crossing,69,Multifamily,Englewood Gardens,6956 S. Vincennes Ave.,60621,773-994-4830,"East Lake Management Group, Inc.",24,41.76751603,-87.62717205,False
+Humboldt Park,23,Multifamily,Nelson Mandela Apts.,3114 W. Franklin Blvd.,60624,773-227-6332,Bickerdike Apts.,6,41.8902013,-87.70458681,False
+Uptown,3,Supportive Housing,Major Jenkins Apts.,5012 N. Winthrop Ave.,60640,773-506-3486,Mercy Housing,96,41.97370056,-87.65789194,False

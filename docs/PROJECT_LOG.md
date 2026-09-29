@@ -312,3 +312,51 @@ Write `None` only if Run All completed without an error. Otherwise record the ex
 ### Next Step
 
 Create `notebooks/03_affordable_housing_cleaning.ipynb` and clean the unit-count, community-area, property-type, and coordinate fields.
+
+
+
+
+
+
+## September 28, 2026
+
+### Objective
+
+Clean and validate the Chicago Affordable Rental Housing Developments dataset for later geographic analysis.
+
+### Completed
+
+- [ ] Verified the ingestion notebook from a fresh kernel
+- [ ] Created the cleaning notebook
+- [ ] Selected the analytical columns
+- [ ] Standardized text fields
+- [ ] Converted numeric fields
+- [ ] Preserved and flagged the missing units value
+- [ ] Validated community-area numbers
+- [ ] Screened latitude and longitude values
+- [ ] Checked missing values and duplicates
+- [ ] Saved and reopened the cleaned dataset
+- [ ] Published the completed work to GitHub
+
+### Files Changed
+
+- `notebooks/03_affordable_housing_cleaning.ipynb`
+- `data/processed/affordable_housing_cleaned.csv`
+- `docs/PROJECT_LOG.md`
+- `notebooks/02_affordable_housing_download.ipynb` if its outputs changed
+
+### What I Learned
+
+I learned how to select relevant columns, standardize text, convert data types and validate geographic values. I also learned that a missing unit count should not automatically be changed to zero because missing and zero have different meanings.
+
+### Blockers
+
+Write `None` if every validation check passed. Otherwise record the exact failed check.
+
+### Git Commit
+
+`Clean and validate affordable housing data`
+
+### Next Step
+
+Summarize affordable developments and documented units by community area and property type.
