@@ -326,17 +326,17 @@ Clean and validate the Chicago Affordable Rental Housing Developments dataset fo
 
 ### Completed
 
-- [ ] Verified the ingestion notebook from a fresh kernel
-- [ ] Created the cleaning notebook
-- [ ] Selected the analytical columns
-- [ ] Standardized text fields
-- [ ] Converted numeric fields
-- [ ] Preserved and flagged the missing units value
-- [ ] Validated community-area numbers
-- [ ] Screened latitude and longitude values
-- [ ] Checked missing values and duplicates
-- [ ] Saved and reopened the cleaned dataset
-- [ ] Published the completed work to GitHub
+- [x] Verified the ingestion notebook from a fresh kernel
+- [x] Created the cleaning notebook
+- [x] Selected the analytical columns
+- [x] Standardized text fields
+- [x] Converted numeric fields
+- [x] Preserved and flagged the missing units value
+- [x] Validated community-area numbers
+- [x] Screened latitude and longitude values
+- [x] Checked missing values and duplicates
+- [x] Saved and reopened the cleaned dataset
+- [x] Published the completed work to GitHub
 
 ### Files Changed
 
@@ -360,3 +360,54 @@ Write `None` if every validation check passed. Otherwise record the exact failed
 ### Next Step
 
 Summarize affordable developments and documented units by community area and property type.
+
+
+
+## September 30, 2026
+
+### Objective
+
+Summarize documented affordable housing developments and known unit counts by community area and property type.
+
+### Completed
+
+- [x] Loaded the cleaned affordable housing data
+- [x] Created the community area summary
+- [x] Created the property type summary
+- [x] Calculated unit reporting rates
+- [x] Validated that no development records were lost
+- [x] Created the top 15 community area chart
+- [x] Saved and reopened both summary files
+- [x] Documented an initial finding
+- [x] Published the work to GitHub
+
+### Results
+
+- Community area groups: `[RUN len(community_summary)]`
+- Property type groups: `30`
+- Highest known documented unit total: `Grand Boulevard with 2,406 known units across 30 development records`
+- Records with missing unit counts: `1`
+
+### Files Changed
+
+- `notebooks/04_affordable_housing_summary.ipynb`
+- `data/processed/affordable_housing_by_community_area.csv`
+- `data/processed/affordable_housing_by_property_type.csv`
+- `reports/figures/top_community_areas_affordable_units.png`
+- `docs/PROJECT_LOG.md`
+
+### What I Learned
+
+I learned how to use Pandas groupby and aggregation to create community level indicators. I also learned that known documented unit totals are different from vacancies or the actual availability of affordable housing.
+
+### Blockers
+
+None
+
+### Git Commit
+
+`Summarize affordable housing distribution`
+
+### Next Step
+
+Download Chicago community area boundaries and prepare the affordable housing summary for geographic mapping.
