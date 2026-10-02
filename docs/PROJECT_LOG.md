@@ -411,3 +411,61 @@ None
 ### Next Step
 
 Download Chicago community area boundaries and prepare the affordable housing summary for geographic mapping.
+
+
+
+
+
+
+
+
+## October 1, 2026
+
+### Objective
+
+Complete and validate the affordable-housing community-area and property-type summaries.
+
+### Completed
+
+- [ ] Ran the summary notebook from a fresh kernel
+- [ ] Calculated the total known documented units
+- [ ] Calculated each community area's percentage
+- [ ] Ranked community areas by known units
+- [ ] Verified that percentages total approximately 100%
+- [ ] Verified that grouping did not lose records
+- [ ] Saved and reopened both summary CSV files
+- [ ] Created the top-15 chart
+- [ ] Wrote an initial finding
+- [ ] Published the work to GitHub
+
+### Results
+
+- Total known documented units: `[ACTUAL VALUE]`
+- Community-area groups: `[ACTUAL VALUE]`
+- Highest-ranked community area: `[ACTUAL VALUE]`
+- Highest-ranked area's known units: `[ACTUAL VALUE]`
+- Highest-ranked area's percentage: `[ACTUAL VALUE]`
+
+### Files Changed
+
+- `notebooks/04_affordable_housing_summary.ipynb`
+- `data/processed/affordable_housing_by_community_area.csv`
+- `data/processed/affordable_housing_by_property_type.csv`
+- `reports/figures/top_community_areas_affordable_units.png`
+- `docs/PROJECT_LOG.md`
+
+### What I Learned
+
+I learned how to calculate percentages and rankings from grouped data. I also learned why documented unit totals must be separated from vacancies and actual housing access.
+
+### Blockers
+
+Write `None` if every validation check passed. Otherwise record the exact error.
+
+### Git Commit
+
+`Complete affordable housing community analysis`
+
+### Next Step
+
+Download and validate Chicago's official community-area boundary data for geographic mapping.
