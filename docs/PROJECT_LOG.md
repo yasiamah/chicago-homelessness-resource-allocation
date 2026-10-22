@@ -423,49 +423,68 @@ Download Chicago community area boundaries and prepare the affordable housing su
 
 ### Objective
 
-Complete and validate the affordable-housing community-area and property-type summaries.
+Finish the affordable housing summary and check its totals. This checkpoint was completed during the October 21 review.
 
 ### Completed
 
-- [ ] Ran the summary notebook from a fresh kernel
-- [ ] Calculated the total known documented units
-- [ ] Calculated each community area's percentage
-- [ ] Ranked community areas by known units
-- [ ] Verified that percentages total approximately 100%
-- [ ] Verified that grouping did not lose records
-- [ ] Saved and reopened both summary CSV files
-- [ ] Created the top-15 chart
-- [ ] Wrote an initial finding
-- [ ] Published the work to GitHub
+- [x] Ran every cleaning and summary code cell in order in fresh Python sessions
+- [x] Fixed category spelling errors and documented 10 reviewed area label corrections
+- [x] Calculated the total known units and each area's percentage
+- [x] Ranked the listed community areas
+- [x] Confirmed that percentages total 100%
+- [x] Confirmed that no records or known units were lost
+- [x] Saved both summary files and checked their contents after reopening
+- [x] Updated the top 15 chart
+- [x] Finished the initial finding
+- [x] Published this completed checkpoint with its supporting files
 
 ### Results
 
-- Total known documented units: `[ACTUAL VALUE]`
-- Community-area groups: `[ACTUAL VALUE]`
-- Highest-ranked community area: `[ACTUAL VALUE]`
-- Highest-ranked area's known units: `[ACTUAL VALUE]`
-- Highest-ranked area's percentage: `[ACTUAL VALUE]`
+- Development records: 598
+- Records with missing unit counts: 1
+- Total known documented units: 29,550
+- Listed community area groups: 66
+- Property type groups: 28
+- Highest listed unit total: Grand Boulevard
+- Grand Boulevard known units: 2,406 across 30 records
+- Grand Boulevard share: 8.14%
+- Humboldt Park known units after merging the spelling error: 1,139
+- Near South Side known units after merging the spacing error: 1,473
+
+### Validation and Category Review
+
+The cleaning changes were checked using the original selected fields from the committed 598-row snapshot. A new City housing download was not substituted for that snapshot. Both notebooks passed ordered execution in fresh Python processes. The reopened CSV contents matched the calculated summaries. Record counts, known unit counts, missing unit counts and total units reconciled in both summaries.
+
+Notebook 03 now normalizes whitespace and merges the clear property type misspellings `Mutifamily` and `Multfamily` into `Multifamily`. Distinct housing programs remain separate.
+
+Ten conflicting or misspelled area labels were reviewed against the listed coordinates and the City's official community area boundary dataset, https://data.cityofchicago.org/d/igwz-8jzy, accessed October 21, 2026. The changes are recorded in `docs/HOUSING_CATEGORY_CORRECTIONS.csv`. These corrections use the recorded location and do not independently verify the street address or every location in a scattered-site development.
+
+Seven other records have a coordinate disagreement even though their listed area names and numbers agree. Their listed areas were kept. They are recorded in `docs/GEOGRAPHY_REVIEW_FLAGS.csv` for the later geography review. The area totals are preliminary until that review is complete.
 
 ### Files Changed
 
+- `notebooks/03_affordable_housing_cleaning.ipynb`
 - `notebooks/04_affordable_housing_summary.ipynb`
+- `data/processed/affordable_housing_cleaned.csv`
 - `data/processed/affordable_housing_by_community_area.csv`
 - `data/processed/affordable_housing_by_property_type.csv`
 - `reports/figures/top_community_areas_affordable_units.png`
+- `docs/HOUSING_CATEGORY_CORRECTIONS.csv`
+- `docs/GEOGRAPHY_REVIEW_FLAGS.csv`
 - `docs/PROJECT_LOG.md`
 
 ### What I Learned
 
-I learned how to calculate percentages and rankings from grouped data. I also learned why documented unit totals must be separated from vacancies and actual housing access.
+I learned that the totals can add up even when area names have spelling errors. Those errors can split one area into separate groups and change the rankings. I also learned why a missing unit count should stay missing.
 
-### Blockers
+### Remaining Limitation
 
-Write `None` if every validation check passed. Otherwise record the exact error.
+The seven geography flags still need review. These counts do not show vacancies or whether the housing meets local need.
 
 ### Git Commit
 
-`Complete affordable housing community analysis`
+`Finish Notebook 04 summary and category cleanup`
 
 ### Next Step
 
-Download and validate Chicago's official community-area boundary data for geographic mapping.
+Review the flagged locations and prepare the official community area boundaries for mapping on a later workday. No mapping notebook was started for this checkpoint.
