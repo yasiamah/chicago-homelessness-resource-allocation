@@ -487,4 +487,4 @@ The seven geography flags still need review. These counts do not show vacancies 
 
 ### Next Step
 
-Review the flagged locations and prepare the official community area boundaries for mapping on a later workday. No mapping notebook was started for this checkpoint.
+Download and validate Chicago's official community-area boundary data for geographic mapping.

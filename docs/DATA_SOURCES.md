@@ -41,3 +41,10 @@ Provides a broader annual estimate that includes doubled-up homelessness. It wil
 - Different homelessness definitions will not be combined without explanation.
 - Correlation will not be presented as proof of causation.
 - Dataset dates and limitations will appear in the final report.
+
+- Official source: https://data.cityofchicago.org/d/igwz-8jzy
+- API format used: GeoJSON
+- Expected coverage: 77 community areas
+- Local raw file: `data/raw/chicago_community_areas.geojson`
+- Processed reference: `data/processed/community_area_reference.csv`
+- Limitation: Community area boundaries provide geographic structure but do not measure housing need or homelessness.
